@@ -1,9 +1,11 @@
+# MIT Aerospace Controls Laboratory
+
+
 ### Introductions
 
-[Lab-link](http://acl.mit.edu/)
+- [Lab-link](http://acl.mit.edu/)
 
-[ Prof. Jonathan P. How](http://www.mit.edu/people/jhow/)
-
+- [Prof. Jonathan P. How](http://www.mit.edu/people/jhow/)
 
 
 ### Planning
