@@ -57,6 +57,9 @@ These are the robotic labs I pay special attention on.
 
 - [AutonomousRacing_Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
 
+- [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
+
+
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
