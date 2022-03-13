@@ -37,8 +37,6 @@ These are the robotic labs I pay special attention on.
 
 ## Resources
 
-- [Research Topics](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/research.md)
-
 - [Optimization](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/optimization.md)
 
 - [Learning](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/learning.md)
@@ -55,7 +53,7 @@ These are the robotic labs I pay special attention on.
 
 - [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 
-- [AutonomousRacing_Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
+- [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
 
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
 
