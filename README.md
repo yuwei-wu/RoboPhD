@@ -43,6 +43,7 @@ These are the robotic labs I pay special attention on.
 
 - [CS related](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/cs.md)
 
+
 ## Guidelines
 
 - [Instructions to PhD students by Prof.Dimitris Papadias](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
@@ -57,6 +58,7 @@ These are the robotic labs I pay special attention on.
 
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
 
+- [Small Unmanned Aircraft: Theory and Practice](https://github.com/randybeard/uavbook)
 
 ## Templates
 
