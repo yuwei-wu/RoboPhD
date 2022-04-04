@@ -1,15 +1,15 @@
 # RoboPhD
 Some records of arXiv papers, GRASP seminars, and resources during my PhD period.
 
-
-
 ## ArXiv Papers
 
 The papers and notes updates weekly, mainly about motion planning
 
 - [2021](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2021.md)
 
-- [2022](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022.md)
+- [2022-s1](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s1.md)
+
+- [2022-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s2.md)
 
 
 ## GRASP Seminars
