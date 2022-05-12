@@ -69,10 +69,11 @@ These are the robotic labs I pay special attention on.
 
 ## Robo Tools
 
-#### (0) Total
+#### (0) General tools
 
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 
+- [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
 
 #### (1) Solvers:
 
