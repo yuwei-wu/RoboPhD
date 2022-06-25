@@ -66,6 +66,8 @@ These are the robotic labs I pay special attention on.
 
 - [Best README](https://github.com/othneildrew/Best-README-Template)
 
+- [Latex book](https://github.com/amberj/latex-book-template)
+
 
 ## Robo Tools
 
