@@ -11,6 +11,8 @@ The papers and notes updates weekly, mainly about motion planning
 
 - [2022-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s2.md)
 
+- [2022-s3](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s3.md)
+
 
 ## GRASP Seminars
 
@@ -35,13 +37,15 @@ These are the robotic labs I pay special attention on.
 - [CMU-Air Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/CMU-Air.md)
 
 
-## Resources
+## Book Resources
 
-- [Optimization](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/optimization.md)
+- [Robotics](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/robo.md)
 
-- [Learning](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/learning.md)
+- [Optimization](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/optimization.md)
 
-- [CS related](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/cs.md)
+- [Learning](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/learning.md)
+
+- [CS related](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/cs.md)
 
 
 ## Guidelines
@@ -58,7 +62,8 @@ These are the robotic labs I pay special attention on.
 
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
 
-- [Small Unmanned Aircraft: Theory and Practice](https://github.com/randybeard/uavbook)
+
+- [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 
 ## Templates
 
@@ -71,13 +76,13 @@ These are the robotic labs I pay special attention on.
 
 ## Robo Tools
 
-#### (0) General tools
+### (0) General tools
 
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
 
-#### (1) Solvers:
+### (1) Solvers:
 
 
 - [ACADO Toolkit](https://github.com/acado/acado)
@@ -167,11 +172,71 @@ These are the robotic labs I pay special attention on.
   - License: open source
   - Interface: C, Python, Julia, R, Matlab
   
-#### (2) Simulations: 
+### (2) Simulations: 
 
 - [Webots](https://github.com/cyberbotics/webots)
 
 - [MuJoCo Physics](https://github.com/deepmind/mujoco)
 
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
+
+
+## Some Famous Planning/Control Repo
+
+
+### (1) Planner
+
+- [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
+
+
+- [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
+
+- [EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2)
+
+
+#### UPenn-MRSL
+
+- [MRSL Motion Primitive Library](https://github.com/sikang/mpl_ros)
+
+#### MIT-ACL
+
+- [FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments](https://github.com/mit-acl/faster)
+
+
+- [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
+
+
+### (2) Multi-agent
+
+
+- [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
+
+- [Planner using Linear Safe Corridor](https://github.com/qwerty35/lsc_planner)
+
+
+### MPC-based
+
+- [Model Predictive Contouring Controller (MPCC)](https://github.com/alexliniger/MPCC)
+
+- [Data-Driven MPC for Quadrotors](https://github.com/uzh-rpg/data_driven_mpc)
+
+- [Policy Search for Model Predictive Control with Application to Agile Drone Flight](https://github.com/uzh-rpg/high_mpc)
+
+- [Model Predictive Control for Multi-MAV Collision Avoidance in Dynamic Environments](https://github.com/tud-amr/mrca-mav)
+
+
+### back-end optimization
+
+
+- [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
+
+
+### Map representation
+
+- [Voxblox](https://github.com/ethz-asl/voxblox)
+
+- [Grid Map](https://github.com/ANYbotics/grid_map)
+
+- [OctoMap](https://github.com/OctoMap/octomap)
+
 
