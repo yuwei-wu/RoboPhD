@@ -56,12 +56,7 @@ These are the robotic labs I pay special attention on.
 
 - [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 
-- [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
-
-- [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
-
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
-
 
 - [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 
@@ -72,6 +67,14 @@ These are the robotic labs I pay special attention on.
 - [Best README](https://github.com/othneildrew/Best-README-Template)
 
 - [Latex book](https://github.com/amberj/latex-book-template)
+
+## Knowledge Notes
+
+- [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
+- [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
+
+- [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 
 
 ## Robo Tools
