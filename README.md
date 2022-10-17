@@ -13,6 +13,7 @@ The papers and notes updates weekly, mainly about motion planning
 
 - [2022-s3](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s3.md)
 
+- [2022-s4](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s4.md)
 
 ## GRASP Seminars
 
