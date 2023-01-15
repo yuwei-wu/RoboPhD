@@ -10,7 +10,7 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 February 3rd, 2023 11:59pm AoE | Paper and Demo Submission Deadline
 
 
-- [IROS 2023] (https://ieee-iros.org/) 
+- [IROS 2023](https://ieee-iros.org/) 
 
 March 1, 2023:  23:59 PST | Deadline for papers submission.
 
@@ -36,9 +36,9 @@ The papers and notes updates weekly, mainly about motion planning
 
 - [2022](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2022.md)
 
-- [20223](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2023.md)
+- [2023](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2023.md)
 
-## Work by Labs
+## Labs
 
 These are the robotic labs I pay special attention on.
 
