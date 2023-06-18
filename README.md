@@ -9,14 +9,18 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 
 February 3rd, 2023 11:59pm AoE | Paper and Demo Submission Deadline
 
-
 - [IROS 2023](https://ieee-iros.org/) 
 
 March 1, 2023:  23:59 PST | Deadline for papers submission.
 
+- [CoRL 2023](https://www.corl2023.org/)
+
+May 15, 2023:  Submission and Supplementary materials deadline
 
 
 ## ArXiv Papers
+
+[arXivDaily](https://arxivdaily.com/cate/23/seq/0)
 
 The papers and notes updates weekly, mainly about motion planning
 
@@ -32,11 +36,18 @@ The papers and notes updates weekly, mainly about motion planning
 
 - [2023-s1](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2023-s1.md)
 
+- [2023-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2023-s2.md)
+
 ## GRASP Seminars
 
 - [2022](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2022.md)
 
 - [2023](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2023.md)
+
+## Annual Reviews
+
+- [TLIOS](https://www.tilos.ai/robotics/)
+- [C-BRIC](https://engineering.purdue.edu/C-BRIC)
 
 ## Labs
 
@@ -95,6 +106,8 @@ These are the robotic labs I pay special attention on.
 - [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
 
 - [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
+
+- [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
 
 
 ## Robo Tools
@@ -216,6 +229,9 @@ These are the robotic labs I pay special attention on.
 
 - [EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2)
 
+- [Bilevel Planner](https://github.com/OxDuke/Bilevel-Planner)
+
+- [GPMP2](https://github.com/gtrll/gpmp2)
 
 #### UPenn-MRSL
 
@@ -248,9 +264,9 @@ These are the robotic labs I pay special attention on.
 - [Model Predictive Control for Multi-MAV Collision Avoidance in Dynamic Environments](https://github.com/tud-amr/mrca-mav)
 
 
-### back-end optimization
+### Optimization
 
-
+- [DC3: A learning method for optimization with hard constraints](https://github.com/locuslab/DC3)
 - [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
 
 
