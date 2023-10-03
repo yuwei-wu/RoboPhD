@@ -2,27 +2,26 @@
 Some records of arXiv papers, GRASP seminars, and resources during my PhD period.
 
 
-## Conference Deadline
+## Workshops
 
+### Planning
 
-- [RSS 2023](https://roboticsconference.org/)
+- [ICRA 2023 MW07: Energy Efficient Aerial Robotic Systems](https://aerial-robotics-workshop-icra2023.com/)
+- [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
+- [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
 
-February 3rd, 2023 11:59pm AoE | Paper and Demo Submission Deadline
+### Others
 
-- [IROS 2023](https://ieee-iros.org/) 
+- [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
+- [IROS 2023 Workshop on Leveraging Models for Contact-Rich Manipulation](https://a2r-lab.org/courses/modelcontactiros23/)
 
-March 1, 2023:  23:59 PST | Deadline for papers submission.
-
-- [CoRL 2023](https://www.corl2023.org/)
-
-May 15, 2023:  Submission and Supplementary materials deadline
 
 
 ## ArXiv Papers
 
 [arXivDaily](https://arxivdaily.com/cate/23/seq/0)
 
-The papers and notes updates weekly, mainly about motion planning
+The papers and notes are updated weekly, mainly about motion planning.
 
 - [2021](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2021.md)
 
@@ -51,12 +50,14 @@ The papers and notes updates weekly, mainly about motion planning
 
 ## Labs
 
-These are the robotic labs I pay special attention on.
+These are the robotic labs I pay special attention to.
 
 - [MIT-ACL](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/MIT-ACL.md)
 - [MIT-LIDS](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/MIT-LIDS.md)
 - [MIT-RLG](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/MIT-RLG.md)
-
+- [MIT-LIS](https://lis.csail.mit.edu/)
+- [MIT-COCOSCI](https://cocosci.mit.edu/)
+  
 - [ZJU-FAST Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/ZJU-Fast.md)
 - [Upenn-Kumar Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/Upenn-Kumar.md)
 - [TU Delft-Autonomous Multi-Robots Laboratory](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/TuDelft-Alonso-Mora.md)
@@ -65,8 +66,10 @@ These are the robotic labs I pay special attention on.
 - [UCSD-ERL](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/UCSD-ERL.md)
 - [SNU-LARR](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/SNU-LARR.md)
 - [UCB-HiPeR Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/UCB-HiPeR.md)
-- [CMU-Air Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/CMU-Air.md)
 
+  
+- [CMU-Air Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/CMU-Air.md)
+- [CMU-Robotic Exploration Lab](http://roboticexplorationlab.org/)
 
 ## Book Resources
 
@@ -279,3 +282,7 @@ These are the robotic labs I pay special attention on.
 - [OctoMap](https://github.com/OctoMap/octomap)
 
 
+
+## Robotics Companies:
+
+- [Berkshire Grey](https://www.berkshiregrey.com/)
