@@ -84,9 +84,9 @@ These are the robotic labs I pay special attention to.
 
 ## Guidelines
 
-- [Instructions to PhD students by Prof.Dimitris Papadias](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
+- [Instructions to Ph.D. students by Prof.Dimitris Papadias](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
 
-- [Awesome tips for reseach](https://github.com/jbhuang0604/awesome-tips)
+- [Awesome tips for research](https://github.com/jbhuang0604/awesome-tips)
 
 - [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 
@@ -117,6 +117,8 @@ These are the robotic labs I pay special attention to.
 
 ### (1) Planner
 
+- [TEB Local Planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+  
 - [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
   
 - [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
@@ -140,6 +142,8 @@ These are the robotic labs I pay special attention to.
 - [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
 
 - [EGO-Swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)
+
+- [Downwash-Aware Trajectory Planning for Large Quadcopter Teams](https://github.com/jpreiss/smoothener)
   
 ### (3) MPC /iLQR
 
@@ -154,6 +158,8 @@ These are the robotic labs I pay special attention to.
 - [MPC for Quadrotors with extension to Perception-Aware MPC](https://github.com/uzh-rpg/rpg_mpc)
 
 - [KR iLQR Optimizer](https://github.com/KumarRobotics/kr_ilqr_optimizer)
+
+- [Online trajectory generation with distributed model predictive control for multi-robot motion planning](https://github.com/carlosluis/online_dmpc)
 
 ### (4) Back-end Optimization
 
