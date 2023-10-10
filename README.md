@@ -112,6 +112,67 @@ These are the robotic labs I pay special attention to.
 
 - [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
 
+## Some Famous Planning/Control Repo
+
+
+### (1) Planner
+
+- [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
+  
+- [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
+
+- [EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2)
+
+- [GPMP2](https://github.com/gtrll/gpmp2)
+
+- [MRSL Motion Primitive Library](https://github.com/sikang/mpl_ros)
+
+- [FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments](https://github.com/mit-acl/faster)
+
+
+### (2) Multi-agent
+
+
+- [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
+
+- [Planner using Linear Safe Corridor](https://github.com/qwerty35/lsc_planner)
+
+- [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
+
+- [EGO-Swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)
+  
+### (3) MPC /iLQR
+
+- [Model Predictive Contouring Controller (MPCC)](https://github.com/alexliniger/MPCC)
+
+- [Data-Driven MPC for Quadrotors](https://github.com/uzh-rpg/data_driven_mpc)
+
+- [Policy Search for Model Predictive Control with Application to Agile Drone Flight](https://github.com/uzh-rpg/high_mpc)
+
+- [Model Predictive Control for Multi-MAV Collision Avoidance in Dynamic Environments](https://github.com/tud-amr/mrca-mav)
+
+- [MPC for Quadrotors with extension to Perception-Aware MPC](https://github.com/uzh-rpg/rpg_mpc)
+
+- [KR iLQR Optimizer](https://github.com/KumarRobotics/kr_ilqr_optimizer)
+
+### (4) Back-end Optimization
+
+- [Bilevel Planner](https://github.com/OxDuke/Bilevel-Planner)
+
+- [DC3: A learning method for optimization with hard constraints](https://github.com/locuslab/DC3)
+  
+- [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
+
+### (5) Map representation
+
+- [Voxblox](https://github.com/ethz-asl/voxblox)
+
+- [Grid Map](https://github.com/ANYbotics/grid_map)
+
+- [OctoMap](https://github.com/OctoMap/octomap)
+
+- [Convex Decomposition of Free Space](https://github.com/sikang/DecompROS)
+
 
 ## Robo Tools
 
@@ -218,70 +279,6 @@ These are the robotic labs I pay special attention to.
 - [MuJoCo Physics](https://github.com/deepmind/mujoco)
 
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
-
-
-## Some Famous Planning/Control Repo
-
-
-### (1) Planner
-
-- [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
-
-
-- [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
-
-- [EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2)
-
-- [Bilevel Planner](https://github.com/OxDuke/Bilevel-Planner)
-
-- [GPMP2](https://github.com/gtrll/gpmp2)
-
-#### UPenn-MRSL
-
-- [MRSL Motion Primitive Library](https://github.com/sikang/mpl_ros)
-
-#### MIT-ACL
-
-- [FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments](https://github.com/mit-acl/faster)
-
-
-- [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
-
-
-### (2) Multi-agent
-
-
-- [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
-
-- [Planner using Linear Safe Corridor](https://github.com/qwerty35/lsc_planner)
-
-
-### MPC-based
-
-- [Model Predictive Contouring Controller (MPCC)](https://github.com/alexliniger/MPCC)
-
-- [Data-Driven MPC for Quadrotors](https://github.com/uzh-rpg/data_driven_mpc)
-
-- [Policy Search for Model Predictive Control with Application to Agile Drone Flight](https://github.com/uzh-rpg/high_mpc)
-
-- [Model Predictive Control for Multi-MAV Collision Avoidance in Dynamic Environments](https://github.com/tud-amr/mrca-mav)
-
-
-### Optimization
-
-- [DC3: A learning method for optimization with hard constraints](https://github.com/locuslab/DC3)
-- [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
-
-
-### Map representation
-
-- [Voxblox](https://github.com/ethz-asl/voxblox)
-
-- [Grid Map](https://github.com/ANYbotics/grid_map)
-
-- [OctoMap](https://github.com/OctoMap/octomap)
-
-
 
 ## Robotics Companies:
 
