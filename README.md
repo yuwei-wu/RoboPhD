@@ -94,6 +94,10 @@ These are the robotic labs I pay special attention to.
 
 - [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 
+- [The Ten Most Important Rules of Writing Your Job Market Paper ](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
+
+
+
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
