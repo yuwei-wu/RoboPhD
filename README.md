@@ -96,7 +96,7 @@ These are the robotic labs I pay special attention to.
 
 - [The Ten Most Important Rules of Writing Your Job Market Paper ](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 
-
+- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 
 ## Templates
 
