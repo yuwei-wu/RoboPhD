@@ -98,7 +98,7 @@ These are the robotic labs I pay special attention to.
 
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 
-- [How to Have a Bad Career in Research/Academia in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
+- [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 
@@ -193,9 +193,11 @@ These are the robotic labs I pay special attention to.
 - [Avoidbench](https://github.com/tudelft/AvoidBench)
 - [Evaluating Dynamic Environment Difficulty for Collision Avoidance Benchmarking](https://smoggy-p.github.io/Evaluating_Dynamic_Difficulty/)
 - [Design and Evaluation of Motion Planners for Quadrotors](https://github.com/KumarRobotics/kr_mp_design)
+- [kinodynamic-motion-planning-benchmark](https://github.com/IMRCLab/kinodynamic-motion-planning-benchmark)
+- [Bench-MR: A Motion Planning Benchmark for Wheeled Mobile Robots](https://github.com/robot-motion/bench-mr)
+- [Local Motion Planning Benchmark Suite](https://github.com/tud-amr/localPlannerBench)
 
-
-
+- 
 ## Robo Tools
 
 ### (0) General tools
