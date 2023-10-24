@@ -184,6 +184,14 @@ These are the robotic labs I pay special attention to.
 - [Convex Decomposition of Free Space](https://github.com/sikang/DecompROS)
 
 
+### (6) Benchmarking works
+
+- [Avoidbench](https://github.com/tudelft/AvoidBench)
+- [Evaluating Dynamic Environment Difficulty for Collision Avoidance Benchmarking](https://smoggy-p.github.io/Evaluating_Dynamic_Difficulty/)
+- [Design and Evaluation of Motion Planners for Quadrotors](https://github.com/KumarRobotics/kr_mp_design)
+
+
+
 ## Robo Tools
 
 ### (0) General tools
