@@ -98,6 +98,10 @@ These are the robotic labs I pay special attention to.
 
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 
+- [How to Have a Bad Career How to Have a Bad Career in Research/Academia in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
+
+- [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
+
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
@@ -184,7 +188,7 @@ These are the robotic labs I pay special attention to.
 - [Convex Decomposition of Free Space](https://github.com/sikang/DecompROS)
 
 
-### (6) Benchmarking works
+### (6) Benchmarks
 
 - [Avoidbench](https://github.com/tudelft/AvoidBench)
 - [Evaluating Dynamic Environment Difficulty for Collision Avoidance Benchmarking](https://smoggy-p.github.io/Evaluating_Dynamic_Difficulty/)
