@@ -85,39 +85,27 @@ These are the robotic labs I pay special attention to.
 ## Guidelines
 
 - [Instructions to Ph.D. students by Prof.Dimitris Papadias](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
-
 - [Awesome tips for research](https://github.com/jbhuang0604/awesome-tips)
-
 - [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
-
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
-
 - [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
-
-- [The Ten Most Important Rules of Writing Your Job Market Paper ](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
-
+- [The Ten Most Important Rules of Writing Your Job Market Paper](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
-
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
-
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
+- [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
 
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
-
 - [Best README](https://github.com/othneildrew/Best-README-Template)
-
 - [Latex book](https://github.com/amberj/latex-book-template)
 
 ## Knowledge Notes
 
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-
 - [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
-
 - [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
-
 - [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
 
 ## Some Famous Planning/Control Repo
@@ -126,17 +114,11 @@ These are the robotic labs I pay special attention to.
 ### (1) Planner
 
 - [TEB Local Planner](https://github.com/rst-tu-dortmund/teb_local_planner)
-  
 - [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
-  
 - [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
-
 - [EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2)
-
 - [GPMP2](https://github.com/gtrll/gpmp2)
-
 - [MRSL Motion Primitive Library](https://github.com/sikang/mpl_ros)
-
 - [FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments](https://github.com/mit-acl/faster)
 
 
@@ -144,47 +126,32 @@ These are the robotic labs I pay special attention to.
 
 
 - [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
-
 - [Planner using Linear Safe Corridor](https://github.com/qwerty35/lsc_planner)
-
 - [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
-
 - [EGO-Swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)
-
 - [Downwash-Aware Trajectory Planning for Large Quadcopter Teams](https://github.com/jpreiss/smoothener)
   
 ### (3) MPC /iLQR
 
 - [Model Predictive Contouring Controller (MPCC)](https://github.com/alexliniger/MPCC)
-
 - [Data-Driven MPC for Quadrotors](https://github.com/uzh-rpg/data_driven_mpc)
-
 - [Policy Search for Model Predictive Control with Application to Agile Drone Flight](https://github.com/uzh-rpg/high_mpc)
-
 - [Model Predictive Control for Multi-MAV Collision Avoidance in Dynamic Environments](https://github.com/tud-amr/mrca-mav)
-
 - [MPC for Quadrotors with extension to Perception-Aware MPC](https://github.com/uzh-rpg/rpg_mpc)
-
 - [KR iLQR Optimizer](https://github.com/KumarRobotics/kr_ilqr_optimizer)
-
 - [Online trajectory generation with distributed model predictive control for multi-robot motion planning](https://github.com/carlosluis/online_dmpc)
 
 ### (4) Back-end Optimization
 
 - [Bilevel Planner](https://github.com/OxDuke/Bilevel-Planner)
-
 - [DC3: A learning method for optimization with hard constraints](https://github.com/locuslab/DC3)
-  
 - [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
 
 ### (5) Map representation
 
 - [Voxblox](https://github.com/ethz-asl/voxblox)
-
 - [Grid Map](https://github.com/ANYbotics/grid_map)
-
 - [OctoMap](https://github.com/OctoMap/octomap)
-
 - [Convex Decomposition of Free Space](https://github.com/sikang/DecompROS)
 
 
