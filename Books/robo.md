@@ -20,3 +20,7 @@ by Prof.Kris Hauser (University of Illinois at Urbana-Champaign)
 - [An Invitation to 3-D Vision From Images to Models](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf)
 
 - [The Extended Kalman Filter: An Interactive Tutorial for Non-Experts](https://simondlevy.github.io/ekf-tutorial/)
+
+- [iLQR Tutorial](https://rexlab.ri.cmu.edu/papers/iLQR_Tutorial.pdf)
+
+- [Chance constrained optimization](https://web.stanford.edu/class/ee364a/lectures/chance_constr.pdf)
