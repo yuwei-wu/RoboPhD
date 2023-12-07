@@ -4,10 +4,11 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 
 ## Workshops
 
-### Planning
+### Planning and UAVs
 
 - [ICRA 2023 MW07: Energy Efficient Aerial Robotic Systems](https://aerial-robotics-workshop-icra2023.com/)
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
+- [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
 
 ### Others
@@ -37,16 +38,17 @@ The papers and notes are updated weekly, mainly about motion planning.
 
 - [2023-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2023-s2.md)
 
-## GRASP Seminars
+## Channels
+
+### GRASP Seminars
 
 - [2022](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2022.md)
 
 - [2023](https://github.com/yuwei-wu/RoboPhD/blob/main/GRASP_Seminars/2023.md)
 
-## Annual Reviews
+### Others
 
-- [TLIOS](https://www.tilos.ai/robotics/)
-- [C-BRIC](https://engineering.purdue.edu/C-BRIC)
+- [DeployableCoRL2023](https://www.youtube.com/@DeployableCoRL2023/videos)
 
 ## Labs
 
@@ -94,7 +96,11 @@ These are the robotic labs I pay special attention to.
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 - [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
+- [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
+- [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 
+
+  
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
@@ -164,7 +170,11 @@ These are the robotic labs I pay special attention to.
 - [Bench-MR: A Motion Planning Benchmark for Wheeled Mobile Robots](https://github.com/robot-motion/bench-mr)
 - [Local Motion Planning Benchmark Suite](https://github.com/tud-amr/localPlannerBench)
 
-- 
+### (7) Learning-based 
+- [Fast Kinodynamic Planning on the Constraint Manifold 
+with Deep Neural Networks](https://sites.google.com/view/constrained-neural-planning/)
+- [k-diffusion](https://github.com/crowsonkb/k-diffusion)
+
 ## Robo Tools
 
 ### (0) General tools
