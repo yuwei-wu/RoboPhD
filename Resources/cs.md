@@ -6,7 +6,6 @@ These materials will be helpful if you want to find SDE jobs.
 
 https://github.com/sindresorhus/awesome
 
-
 - The System Design Primer
 
 https://github.com/donnemartin/system-design-primer

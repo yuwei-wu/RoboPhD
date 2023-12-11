@@ -73,15 +73,15 @@ These are the robotic labs I pay special attention to.
 - [CMU-Air Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/CMU-Air.md)
 - [CMU-Robotic Exploration Lab](http://roboticexplorationlab.org/)
 
-## Book Resources
+## Resources
 
-- [Robotics](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/robo.md)
+- [Robotics](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/robo.md)
 
-- [Optimization](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/optimization.md)
+- [Optimization](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/optimization.md)
 
-- [Learning](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/learning.md)
+- [Learning](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/learning.md)
 
-- [CS related](https://github.com/yuwei-wu/RoboPhD/blob/main/Books/cs.md)
+- [Computer Science](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/cs.md)
 
 
 ## Guidelines
@@ -99,8 +99,6 @@ These are the robotic labs I pay special attention to.
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 
-
-  
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
