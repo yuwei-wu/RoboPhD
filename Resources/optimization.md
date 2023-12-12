@@ -19,3 +19,5 @@
 - [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
 
 - [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)
+
+- [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf)
