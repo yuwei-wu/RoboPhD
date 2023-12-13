@@ -1,14 +1,11 @@
 
-
-### 1. prerequisite
-
+## 1. Prerequisite
 
 - [Exploring Geometry](https://faculty.math.illinois.edu/~mjunge/40216/Hvidsten.pdf)
 
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-### 2. optimizations
-
+## 2. optimizations
 
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
