@@ -98,7 +98,7 @@ These are the robotic labs I pay special attention to.
 - [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
-— [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
+- [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
