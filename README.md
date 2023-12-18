@@ -99,6 +99,7 @@ These are the robotic labs I pay special attention to.
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
+- [What advice would I give a starting graduate student interested in robot learning? Models! ... Model-free! ... Both!](https://www.cs.cmu.edu/~cga/mbl/)
 ## Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
