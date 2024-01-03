@@ -1,29 +1,17 @@
 
-- MIT Deep Learning
+- [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 
-https://github.com/lexfridman/mit-deep-learning
+- [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
-- Python Machine Learning (2nd edition)
+- [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 
-https://github.com/rasbt/python-machine-learning-book-2nd-edition
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-- Awesome-Pytorch-list
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-https://github.com/bharathgs/Awesome-pytorch-list
-
-- Deep Learning Models
-
-https://github.com/rasbt/deeplearning-models
-
-- Awesome Deep Learning
-
-https://github.com/ChristosChristofidis/awesome-deep-learning
-
-- Awesome Public Datasets
-
-https://github.com/awesomedata/awesome-public-datasets
-
+- [What’s the backward-forward FLOP ratio for Neural Networks?](https://www.alignmentforum.org/posts/fnjKpBoWJXcSDwhZk/what-s-the-backward-forward-flop-ratio-for-neural-networks)
 
 ### In Chinese
 
