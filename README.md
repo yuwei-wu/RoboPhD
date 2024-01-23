@@ -20,6 +20,9 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 
 ## ArXiv Papers
 
+**Updates: I will not frequently update ArXiv papers on this repo, as [Scholar Inbox](https://www.scholar-inbox.com/) is a much better tool for capturing papers!**
+
+
 [arXivDaily](https://arxivdaily.com/cate/23/seq/0)
 
 The papers and notes are updated weekly, mainly about motion planning.
