@@ -5,28 +5,20 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 ## Workshops
 
 ### Planning and UAVs
-
 - [ICRA 2023 MW07: Energy Efficient Aerial Robotic Systems](https://aerial-robotics-workshop-icra2023.com/)
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
-
 ### Others
-
 - [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
 - [IROS 2023 Workshop on Leveraging Models for Contact-Rich Manipulation](https://a2r-lab.org/courses/modelcontactiros23/)
-
 
 
 ## ArXiv Papers
 
 **Updates: I will not frequently update ArXiv papers on this repo, as [Scholar Inbox](https://www.scholar-inbox.com/) is a much better tool for capturing papers!**
 
-
-[arXivDaily](https://arxivdaily.com/cate/23/seq/0)
-
 The papers and notes are updated weekly, mainly about motion planning.
-
 - [2021](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2021.md)
 
 - [2022-s1](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s1.md)
@@ -41,6 +33,14 @@ The papers and notes are updated weekly, mainly about motion planning.
 
 - [2023-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2023-s2.md)
 
+## Courses
+
+- [CS 4756/5756 Robot Learning, Cornell University](https://www.cs.cornell.edu/courses/cs4756/2023sp/)
+- [CSCI 699: Robot Learning, USC](https://liralab.usc.edu/csci699/)
+- [16-350 Planning Techniques for Robotics, CMU](https://www.cs.cmu.edu/~maxim/classes/robotplanning/)
+
+
+- [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
 ## Channels
 
 ### GRASP Seminars
