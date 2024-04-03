@@ -18,6 +18,8 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 
 **Updates: I will not frequently update ArXiv papers on this repo, as [Scholar Inbox](https://www.scholar-inbox.com/) is a much better tool for capturing papers!**
 
+Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
+
 The papers and notes are updated weekly, mainly about motion planning.
 - [2021](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2021.md)
 
@@ -189,9 +191,9 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 ### (0) General tools
 
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
-
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
 - [Manim, designed for creating explanatory math videos.](https://github.com/3b1b/manim)
+- [Quick C++ Benchmark](https://quick-bench.com/)
 
 ### (1) Solvers:
 
