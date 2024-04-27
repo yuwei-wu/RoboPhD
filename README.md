@@ -106,6 +106,8 @@ These are the robotic labs I pay special attention to.
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
 - [What advice would I give a starting graduate student interested in robot learning? Models! ... Model-free! ... Both!](https://www.cs.cmu.edu/~cga/mbl/)
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
+- [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+
 
 ## Faculty Application Resources
 
