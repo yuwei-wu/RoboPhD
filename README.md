@@ -41,6 +41,9 @@ The papers and notes are updated weekly, mainly about motion planning.
 - [CSCI 699: Robot Learning, USC](https://liralab.usc.edu/csci699/)
 - [16-350 Planning Techniques for Robotics, CMU](https://www.cs.cmu.edu/~maxim/classes/robotplanning/)
 - [CSC2621 Topics in RoboticsReinforcement Learning in Robotics, UToronto](https://www.pair.toronto.edu/csc2621-w20/)
+- [CS 285 Deep Reinforcement Learning at UC Berkeley ](https://rail.eecs.berkeley.edu/deeprlcourse-fa22/)
+- [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
+
 
 - [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
 ## Channels
