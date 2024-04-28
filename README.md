@@ -40,7 +40,7 @@ The papers and notes are updated weekly, mainly about motion planning.
 - [CS 4756/5756 Robot Learning, Cornell University](https://www.cs.cornell.edu/courses/cs4756/2023sp/)
 - [CSCI 699: Robot Learning, USC](https://liralab.usc.edu/csci699/)
 - [16-350 Planning Techniques for Robotics, CMU](https://www.cs.cmu.edu/~maxim/classes/robotplanning/)
-
+- [CSC2621 Topics in RoboticsReinforcement Learning in Robotics, UToronto](https://www.pair.toronto.edu/csc2621-w20/)
 
 - [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
 ## Channels
