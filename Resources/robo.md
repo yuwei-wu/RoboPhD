@@ -21,3 +21,9 @@
 - [Chance constrained optimization](https://web.stanford.edu/class/ee364a/lectures/chance_constr.pdf)
 
 - [PathFinding Visual Tool](https://qiao.github.io/PathFinding.js/visual/)
+
+
+
+## 3. Computation Geometry
+
+- [ACD](https://parasollab.web.illinois.edu/research/ACD/)
