@@ -5,6 +5,10 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 ## Workshops
 
 ### Planning and UAVs
+
+- [ICRA 2024 Breaking Swarm Stereotypes](https://hauertlab.com/breaking-swarm-stereotypes-workshop-icra-2024/)
+- [ICRA 2024 Agile Robotics: From Perception to Dynamic Action](https://agile-robotics-workshop.github.io/icra2024/)
+- [ICRA 2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
 - [ICRA 2023 MW07: Energy Efficient Aerial Robotic Systems](https://aerial-robotics-workshop-icra2023.com/)
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
