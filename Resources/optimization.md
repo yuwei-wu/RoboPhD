@@ -18,3 +18,7 @@
 - [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)
 
 - [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf)
+
+- [Scaled form ADMM](https://nikopj.github.io/notes/admm_scaled/)
+
+- [General Heuristics for Nonconvex Quadratically Constrained Quadratic Programming](https://web.stanford.edu/~boyd/papers/pdf/qcqp.pdf)
