@@ -2,6 +2,8 @@
 
 ## 1. General
 
+- [A Roadmap for US Robotics (2024 edition)](https://hichristensen.com/pdf/roadmap-2024.pdf)
+
 - [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 
 - [Small Unmanned Aircraft: Theory and Practice](https://github.com/randybeard/uavbook)
