@@ -47,7 +47,9 @@ The papers and notes are updated weekly, mainly about motion planning.
 - [CSC2621 Topics in RoboticsReinforcement Learning in Robotics, UToronto](https://www.pair.toronto.edu/csc2621-w20/)
 - [CS 285 Deep Reinforcement Learning at UC Berkeley ](https://rail.eecs.berkeley.edu/deeprlcourse-fa22/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
-
+- [CIS 5150: Linear Algebra for Computer Vision, Robotics, and Machine Learning, Upenn](https://www.cis.upenn.edu/~cis5150/linalg-I-f.pdf)
+- [ESE 546: Principles of Deep Learning, Upenn](https://pratikac.github.io/pub/23_ese546.pdf)
+- [ESE 650 Learning in Robotics, Upenn](https://pratikac.github.io/pub/23_ese650.pdf)
 
 - [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
 ## Channels
