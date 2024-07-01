@@ -17,6 +17,8 @@
 
 - [Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning/)
 
+- [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929)
+
 ### Articles
 
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
