@@ -148,7 +148,8 @@ These are the robotic labs I pay special attention to.
 - [GPMP2](https://github.com/gtrll/gpmp2)
 - [MRSL Motion Primitive Library](https://github.com/sikang/mpl_ros)
 - [FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments](https://github.com/mit-acl/faster)
-
+- [cmu-exploration](https://www.cmu-exploration.com/)
+- [VAMP](https://github.com/KavrakiLab/vamp)
 
 ### (2) Multi-agent
 
