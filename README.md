@@ -289,7 +289,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Gurobi](https://www.gurobi.com/products/gurobi-optimizer/)
   - Use: LP, QP and MIP (MILP, MIQP, and MIQCP) 
   - License: [Academic Licenses](https://www.gurobi.com/academia/academic-program-and-licenses/)
-  - Interface: C++, C, Python, matlab, R...
+  - Interface: C++, C, Python, Matlab, R...
   
 - [Embedded Conic Solver (ECOS)](https://github.com/embotech/ecos)
 
@@ -308,3 +308,4 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 ## Robotics Companies:
 
 - [Berkshire Grey](https://www.berkshiregrey.com/)
+- [fly4future](https://fly4future.com/)
