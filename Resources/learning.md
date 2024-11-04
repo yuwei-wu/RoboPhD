@@ -1,4 +1,7 @@
 
+
+## 1. General
+
 - [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 
 - [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
@@ -19,18 +22,17 @@
 
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929)
 
-### Articles
+## 2. Articles
 
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 
-### In Chinese
+## 3. In Chinese
 
 - [PyTorch tutorials, examples and books](https://github.com/bat67/pytorch-tutorials-examples-and-books/)
 
-- 神经网络与深度学习 Neural Network and Deep Learning
+- [神经网络与深度学习 Neural Network and Deep Learning](https://nndl.github.io/)
 
-https://nndl.github.io/
+- [DeepLearning-500-questions (Chinese&English)](https://github.com/scutan90/DeepLearning-500-questions)
 
-- 深度学习500问
 
-https://github.com/scutan90/DeepLearning-500-questions
+

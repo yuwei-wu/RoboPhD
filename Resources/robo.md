@@ -25,7 +25,6 @@
 - [PathFinding Visual Tool](https://qiao.github.io/PathFinding.js/visual/)
 
 
-
 ## 3. Computation Geometry
 
 - [ACD](https://parasollab.web.illinois.edu/research/ACD/)

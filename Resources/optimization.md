@@ -1,11 +1,6 @@
 
-## 1. Prerequisite
 
-- [Exploring Geometry](https://faculty.math.illinois.edu/~mjunge/40216/Hvidsten.pdf)
-
-- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-
-## 2. optimizations
+## 1. optimizations
 
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
@@ -22,3 +17,7 @@
 - [Scaled form ADMM](https://nikopj.github.io/notes/admm_scaled/)
 
 - [General Heuristics for Nonconvex Quadratically Constrained Quadratic Programming](https://web.stanford.edu/~boyd/papers/pdf/qcqp.pdf)
+
+- [Nonlinear Optimization James V. Burke](https://sites.math.washington.edu/~burke/crs/408/notes/Math408_W2020/math408text.pdf)
+
+- [Optimization: Principles and Algorithms Michel Bierlair](https://transp-or.epfl.ch/books/optimization/html/OptimizationPrinciplesAlgorithms2018.pdf)
