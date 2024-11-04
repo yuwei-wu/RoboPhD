@@ -19,3 +19,5 @@
 - [The Topology of Fiber Bundles Lecture Notes](https://math.stanford.edu/~ralph/fiber.pdf)
 
 - [Linear Algebra for Computer Vision, Robotics, and Machine Learning](https://www.cis.upenn.edu/~cis5150/linalg-I-f.pdf)
+
+- [Ordinary Differential Equations](https://users.math.msu.edu/users/gnagy/teaching/ode.pdf)
