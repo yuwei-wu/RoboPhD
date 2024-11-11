@@ -51,7 +51,7 @@ The papers and notes are updated weekly, mainly about motion planning.
 - [ESE 546: Principles of Deep Learning, Upenn](https://pratikac.github.io/pub/23_ese546.pdf)
 - [ESE 650 Learning in Robotics, Upenn](https://pratikac.github.io/pub/23_ese650.pdf)
 - [CIS 7000: Large Language Models, Upenn](https://llm-class.github.io/schedule.html)
-
+- [MA 430 Differential Geometry](https://liavas.net/courses/math430/)
 
 
 - [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
