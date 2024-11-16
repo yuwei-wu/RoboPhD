@@ -1,6 +1,7 @@
 
 These materials will be helpful if you want to find SDE jobs.
 
+- [Computer Science 217 Introduction to Programming Systems, Princeton University](https://www.cs.princeton.edu/courses/archive/spr11/cos217/lectures/)
 
 - Awesome List
 
