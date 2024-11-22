@@ -108,18 +108,28 @@ These are the robotic labs I pay special attention to.
 - [Awesome tips for research](https://github.com/jbhuang0604/awesome-tips)
 - [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
-- [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 - [The Ten Most Important Rules of Writing Your Job Market Paper](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
-- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
-- [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
-- [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
+- [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
 - [What advice would I give a starting graduate student interested in robot learning? Models! ... Model-free! ... Both!](https://www.cs.cmu.edu/~cga/mbl/)
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+- [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
+- [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
+
+
+### How to ...
+
+- [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
+- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)
+- [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
+- [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
+- [How to handle a hands-off supervisor](https://kidger.site/thoughts/how-to-handle-a-hands-off-supervisor/)
 
 
 ## Faculty Application Resources
