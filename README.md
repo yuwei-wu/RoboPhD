@@ -94,11 +94,8 @@ These are the robotic labs I pay special attention to.
 ## Resources
 
 - [Robotics](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/robo.md)
-
 - [Optimization](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/optimization.md)
-
 - [Learning](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/learning.md)
-
 - [Computer Science](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/cs.md)
 
 
@@ -110,13 +107,10 @@ These are the robotic labs I pay special attention to.
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
 - [The Ten Most Important Rules of Writing Your Job Market Paper](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
-- [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
-- [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
 - [What advice would I give a starting graduate student interested in robot learning? Models! ... Model-free! ... Both!](https://www.cs.cmu.edu/~cga/mbl/)
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
-- [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
 
@@ -132,23 +126,32 @@ These are the robotic labs I pay special attention to.
 - [How to handle a hands-off supervisor](https://kidger.site/thoughts/how-to-handle-a-hands-off-supervisor/)
 
 
-## Faculty Application Resources
+### Faculty Resources
 
 - [The Strategy Space](https://www.kiragoldner.com/blog/index.html)
 - [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+- [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
+- [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
 
-## Templates
+### Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
 - [Best README](https://github.com/othneildrew/Best-README-Template)
 - [Latex book](https://github.com/amberj/latex-book-template)
 
-## Knowledge Notes
+### Knowledge Notes
 
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 - [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
 - [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 - [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
+
+### More readings
+
+- [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
+- [Inequality in Science: Who Becomes a Star?](https://www.nber.org/papers/w33063)
+- [What Science and Nature are good for: causing paper cuts](https://www.nature.com/articles/d41586-024-02297-6)
+- [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 
 ## Some Famous Planning/Control Repo
 
