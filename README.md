@@ -53,7 +53,7 @@ The papers and notes are updated weekly, mainly about motion planning.
 - [CIS 7000: Large Language Models, Upenn](https://llm-class.github.io/schedule.html)
 - [MA 430 Differential Geometry](https://liavas.net/courses/math430/)
 - [CIS 610, Spring 2023 Advanced Geometric Methods in Computer Science, Upenn](https://www.cis.upenn.edu/~cis6100/)
-
+- [COS597C: Advanced Methods in Probabilistic Modeling, Princeton](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/)
 
 - [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
 ## Channels
