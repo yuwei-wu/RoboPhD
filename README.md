@@ -152,6 +152,8 @@ These are the robotic labs I pay special attention to.
 - [Inequality in Science: Who Becomes a Star?](https://www.nber.org/papers/w33063)
 - [What Science and Nature are good for: causing paper cuts](https://www.nature.com/articles/d41586-024-02297-6)
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+- [Richard Hamming. "You and Your Research"](https://www.cs.utexas.edu/~dsb/Inspiration/hamming.pdf)
+- [We Are Sorry to Inform You …](https://www.cs.utexas.edu/~dsb/Inspiration/reject.pdf)
 
 ## Some Famous Planning/Control Repo
 
