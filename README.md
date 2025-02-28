@@ -154,6 +154,8 @@ These are the robotic labs I pay special attention to.
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [Richard Hamming. "You and Your Research"](https://www.cs.utexas.edu/~dsb/Inspiration/hamming.pdf)
 - [We Are Sorry to Inform You …](https://www.cs.utexas.edu/~dsb/Inspiration/reject.pdf)
+- [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
+
 
 ## Some Famous Planning/Control Repo
 
@@ -216,6 +218,12 @@ These are the robotic labs I pay special attention to.
 - [Fast Kinodynamic Planning on the Constraint Manifold 
 with Deep Neural Networks](https://sites.google.com/view/constrained-neural-planning/)
 - [k-diffusion](https://github.com/crowsonkb/k-diffusion)
+
+### (8) Others
+
+-[ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
+-[OpenHands: Code Less, Make More](https://github.com/All-Hands-AI/OpenHands)
+
 
 ## Robo Tools
 
@@ -328,3 +336,4 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 - [Berkshire Grey](https://www.berkshiregrey.com/)
 - [fly4future](https://fly4future.com/)
+- [physical intelligence](https://www.physicalintelligence.company/)
