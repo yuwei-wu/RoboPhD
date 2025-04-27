@@ -233,6 +233,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
 - [Manim, designed for creating explanatory math videos.](https://github.com/3b1b/manim)
 - [Quick C++ Benchmark](https://quick-bench.com/)
+- [RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
 ### (1) Solvers:
 
