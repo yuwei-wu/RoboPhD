@@ -155,6 +155,9 @@ These are the robotic labs I pay special attention to.
 - [Richard Hamming. "You and Your Research"](https://www.cs.utexas.edu/~dsb/Inspiration/hamming.pdf)
 - [We Are Sorry to Inform You …](https://www.cs.utexas.edu/~dsb/Inspiration/reject.pdf)
 - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
+- [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8)
+- [How a PhD student’s lab size affects their chance of future academic success](https://www.nature.com/articles/d41586-025-00644-9)
+- [Respect the Unstable, Scale and Constraints in the Era of Artificial Intelligence](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/8/773/files/2025/05/EvangelosTheodorou_OpinionPaperV1.pdf)
 
 
 ## Some Famous Planning/Control Repo
