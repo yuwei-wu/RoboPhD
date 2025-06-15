@@ -157,6 +157,10 @@ These are the robotic labs I pay special attention to.
 - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 - [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8)
 - [How a PhD student’s lab size affects their chance of future academic success](https://www.nature.com/articles/d41586-025-00644-9)
+- [Postdocs’ lab engagement predicts trajectories of PhD students’ skill development](https://www.pnas.org/doi/10.1073/pnas.1912488116)
+- [How do I choose a principal investigator for my next postdoc?](https://www.nature.com/articles/d41586-025-01493-2)
+- [How to Build a Bad Research Center](https://cacm.acm.org/opinion/how-to-build-a-bad-research-center/)
+- [Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37)
 - [Respect the Unstable, Scale and Constraints in the Era of Artificial Intelligence](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/8/773/files/2025/05/EvangelosTheodorou_OpinionPaperV1.pdf)
 
 
