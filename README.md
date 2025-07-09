@@ -86,7 +86,6 @@ These are the robotic labs I pay special attention to.
 - [UCSD-ERL](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/UCSD-ERL.md)
 - [SNU-LARR](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/SNU-LARR.md)
 - [UCB-HiPeR Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/UCB-HiPeR.md)
-
   
 - [CMU-Air Lab](https://github.com/yuwei-wu/RoboPhD/blob/main/Labs/CMU-Air.md)
 - [CMU-Robotic Exploration Lab](http://roboticexplorationlab.org/)
@@ -113,10 +112,6 @@ These are the robotic labs I pay special attention to.
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
-
-
-### How to ...
-
 - [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
@@ -124,7 +119,8 @@ These are the robotic labs I pay special attention to.
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 - [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
 - [How to handle a hands-off supervisor](https://kidger.site/thoughts/how-to-handle-a-hands-off-supervisor/)
-
+- [How do I choose a principal investigator for my next postdoc?](https://www.nature.com/articles/d41586-025-01493-2)
+- [How to Build a Bad Research Center](https://cacm.acm.org/opinion/how-to-build-a-bad-research-center/)
 
 ### Faculty Resources
 
@@ -158,11 +154,9 @@ These are the robotic labs I pay special attention to.
 - [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8)
 - [How a PhD student’s lab size affects their chance of future academic success](https://www.nature.com/articles/d41586-025-00644-9)
 - [Postdocs’ lab engagement predicts trajectories of PhD students’ skill development](https://www.pnas.org/doi/10.1073/pnas.1912488116)
-- [How do I choose a principal investigator for my next postdoc?](https://www.nature.com/articles/d41586-025-01493-2)
-- [How to Build a Bad Research Center](https://cacm.acm.org/opinion/how-to-build-a-bad-research-center/)
 - [Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37)
 - [Respect the Unstable, Scale and Constraints in the Era of Artificial Intelligence](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/8/773/files/2025/05/EvangelosTheodorou_OpinionPaperV1.pdf)
-
+- [Early coauthorship with top scientists predicts success in academic careers](https://www.nature.com/articles/s41467-019-13130-4)
 
 ## Some Famous Planning/Control Repo
 
@@ -339,6 +333,8 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [MuJoCo Physics](https://github.com/deepmind/mujoco)
 
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
+
+- [Simulation of Aerial Robotics](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/)
 
 ## Robotics Companies:
 
