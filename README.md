@@ -1,11 +1,13 @@
 # RoboPhD
-Some records of arXiv papers, GRASP seminars, and resources during my PhD period.
+Some records of papers, seminars, and resources during my PhD period.
 
 
 ## Workshops
 
 ### Planning and UAVs
 
+- [ICRA 2025 25 years of Aerial Robotics: Challenges and Opportunities](https://aerial-robotics-workshop-icra.com/)
+- [ICRA 2025 Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots](https://ag-tech-icra2025.com/)
 - [ICRA 2024 Breaking Swarm Stereotypes](https://hauertlab.com/breaking-swarm-stereotypes-workshop-icra-2024/)
 - [ICRA 2024 Agile Robotics: From Perception to Dynamic Action](https://agile-robotics-workshop.github.io/icra2024/)
 - [ICRA 2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
@@ -23,21 +25,6 @@ Some records of arXiv papers, GRASP seminars, and resources during my PhD period
 **Updates: I will not frequently update ArXiv papers on this repo, as [Scholar Inbox](https://www.scholar-inbox.com/) is a much better tool for capturing papers!**
 
 Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
-
-The papers and notes are updated weekly, mainly about motion planning.
-- [2021](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2021.md)
-
-- [2022-s1](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s1.md)
-
-- [2022-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s2.md)
-
-- [2022-s3](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s3.md)
-
-- [2022-s4](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2022-s4.md)
-
-- [2023-s1](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2023-s1.md)
-
-- [2023-s2](https://github.com/yuwei-wu/RoboPhD/blob/main/arXiv/2023-s2.md)
 
 ## Courses
 
@@ -214,6 +201,7 @@ These are the robotic labs I pay special attention to.
 - [kinodynamic-motion-planning-benchmark](https://github.com/IMRCLab/kinodynamic-motion-planning-benchmark)
 - [Bench-MR: A Motion Planning Benchmark for Wheeled Mobile Robots](https://github.com/robot-motion/bench-mr)
 - [Local Motion Planning Benchmark Suite](https://github.com/tud-amr/localPlannerBench)
+- [A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation](https://toyotaresearchinstitute.github.io/lbm1/)
 
 ### (7) Learning-based 
 - [Fast Kinodynamic Planning on the Constraint Manifold 
