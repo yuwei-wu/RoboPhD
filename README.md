@@ -6,6 +6,7 @@ Some records of papers, seminars, and resources during my PhD period.
 
 ### Planning and UAVs
 
+- [RSS 2025 Leveraging Implicit Methods for Aerial Autonomy](https://im4rob.github.io/)
 - [ICRA 2025 25 years of Aerial Robotics: Challenges and Opportunities](https://aerial-robotics-workshop-icra.com/)
 - [ICRA 2025 Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots](https://ag-tech-icra2025.com/)
 - [ICRA 2024 Breaking Swarm Stereotypes](https://hauertlab.com/breaking-swarm-stereotypes-workshop-icra-2024/)
@@ -15,9 +16,16 @@ Some records of papers, seminars, and resources during my PhD period.
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
+
+  
 ### Others
 - [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
 - [IROS 2023 Workshop on Leveraging Models for Contact-Rich Manipulation](https://a2r-lab.org/courses/modelcontactiros23/)
+
+## Conference
+
+- [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
+- [ROSCon](https://roscon.ros.org/)
 
 
 ## ArXiv Papers
@@ -121,6 +129,13 @@ These are the robotic labs I pay special attention to.
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
 - [Best README](https://github.com/othneildrew/Best-README-Template)
 - [Latex book](https://github.com/amberj/latex-book-template)
+
+- Website templates
+
+  - [al-folio](https://github.com/alshedivat/al-folio)
+  - [Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template)
+  - [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  - [awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
 
 ### Knowledge Notes
 
@@ -329,3 +344,4 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Berkshire Grey](https://www.berkshiregrey.com/)
 - [fly4future](https://fly4future.com/)
 - [physical intelligence](https://www.physicalintelligence.company/)
+- [Skild AI](https://www.skild.ai/)
