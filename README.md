@@ -1,6 +1,6 @@
 # RoboPhD
-Some records of papers, seminars, and resources during my PhD period.
 
+A curated collection of papers, seminars, courses, and technical resources for robotic research.
 
 ## Workshops
 
@@ -16,10 +16,8 @@ Some records of papers, seminars, and resources during my PhD period.
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
-
   
 ### Others
-
 - [ICRA 2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/icra_workshop_field_robotics/)
 - [ICRA 2025 Workshop on Public Trust in Autonomous Systems (PTAS)](https://saferobotics.princeton.edu/ptas-icra25)
 - [ICRA 2025 Towards Agility and Robustness: Mechanical Intelligence in Robotics, Biology, and Smart Materials ](https://sites.google.com/view/mechanicalintelligence-icra25/)
@@ -37,15 +35,12 @@ Some records of papers, seminars, and resources during my PhD period.
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
 
+## Mailing Lists
 
-## ArXiv Papers
-
-**Updates: I will not frequently update ArXiv papers on this repo, as [Scholar Inbox](https://www.scholar-inbox.com/) is a much better tool for capturing papers!**
-
-Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
+- [Scholar Inbox](https://www.scholar-inbox.com/)
+- [robotics worldwide](https://www.robotics-worldwide.org/)
 
 ## Courses
-
 
 ### Robot Learning & Reinforcement Learning
 
@@ -61,14 +56,10 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 - [Robot Learning, Yale University](https://cs.yale.edu/homes/tesca/teaching/rl-s24/)
 - [CS234: Reinforcement Learning, Stanford](https://web.stanford.edu/class/cs234/index.html)
 
-
-
 ### Robotics Planning, Geometry & General Robotics
 
 - [16-350 Planning Techniques for Robotics, CMU](https://www.cs.cmu.edu/~maxim/classes/robotplanning/)
 - [MIT 6.832: Underactuated Robotics](http://underactuated.mit.edu/) 
-
-
 
 ### Mathematical Foundations
 
@@ -78,23 +69,17 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 - [CIS 610, Spring 2023 Advanced Geometric Methods in Computer Science, Upenn](https://www.cis.upenn.edu/~cis6100/)
 - [COS597C: Advanced Methods in Probabilistic Modeling, Princeton](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/)
 
-
-
 ### Aggregators
 
-
-- [More Robotics Courses](https://github.com/ajaygunalan/Robotics-Courses)
-
-
-
+- [Robotics-Courses](https://github.com/ajaygunalan/Robotics-Courses)
 
 ## Robotics Labs
 
 
 ### UAV Labs
 
-- [Upenn-Kumar Lab (Kumar Robotics Lab, UPenn)](https://www.kumarrobotics.org/)
-- [ZJU-FAST Lab (FAST Lab, Zhejiang University)](http://zju-fast.com/)
+- [Kumar Robotics Lab, UPenn](https://www.kumarrobotics.org/)
+- [FAST Lab, Zhejiang University](http://zju-fast.com/)
 - [MIT-ACL (Aerospace Controls Laboratory)](https://acl.mit.edu/)
 - [TU Delft-Autonomous Multi-Robots Laboratory](https://www.autonomousrobots.nl/)
 - [HKUST-Aerial Robotics Group](https://uav.ust.hk/)
@@ -102,9 +87,9 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 - [UCSD-ERL (Engineering Robotics Lab, UCSD)](https://erl.ucsd.edu/)
 - [SNU-LARR (Laboratory for Autonomous Robotics Research)](https://larr.snu.ac.kr/)
 - [UCB-HiPeR Lab (High Performance Robotics Lab, UC Berkeley)](https://hiperlab.berkeley.edu/)
-- [CMU-Air Lab (AirLab, Carnegie Mellon University)](https://theairlab.org/)
+- [AirLab, Carnegie Mellon University](https://theairlab.org/)
 - [CMU-Robotic Exploration Lab](http://roboticexplorationlab.org/)
-
+- [Aerial Robotics Lab, Imperial College London](https://www.imperial.ac.uk/aerial-robotics/)
 
 ### Others
 
@@ -117,9 +102,7 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 ## Resources
 
 ### :one: Robotics
-
 <details>
-
   <summary><strong>1. General</strong></summary>
 
 - [A Roadmap for US Robotics (2024 edition)](https://hichristensen.com/pdf/roadmap-2024.pdf)
@@ -133,7 +116,6 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 </details>
 
 <details>
-
   <summary><strong>2. Math</strong></summary>
 
 - [Exploring Geometry](https://faculty.math.illinois.edu/~mjunge/40216/Hvidsten.pdf)
@@ -156,43 +138,29 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 
 </details>
 
-
-
 ### :two: Optimization
-
 
 <details>
 
   <summary><strong>1. General</strong></summary>
 
-
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-
 - [A Course in Combinatorial Optimization](https://homepages.cwi.nl/~lex/files/dict.pdf)
-
 - [CMU course, Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
-
 - [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
-
 - [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)
-
 - [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf)
-
 - [Scaled form ADMM](https://nikopj.github.io/notes/admm_scaled/)
-
 - [General Heuristics for Nonconvex Quadratically Constrained Quadratic Programming](https://web.stanford.edu/~boyd/papers/pdf/qcqp.pdf)
-
 - [Nonlinear Optimization James V. Burke](https://sites.math.washington.edu/~burke/crs/408/notes/Math408_W2020/math408text.pdf)
-
 - [Optimization: Principles and Algorithms Michel Bierlair](https://transp-or.epfl.ch/books/optimization/html/OptimizationPrinciplesAlgorithms2018.pdf)
 
-
 </details>
+
 
 <details>
 
   <summary><strong>2. Solvers</strong></summary>
-
 
 - [ACADO Toolkit](https://github.com/acado/acado)
 
@@ -280,17 +248,14 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
   - Use: for convex second-order cone programs (SOCPs) 
   - License: open source
   - Interface: C, Python, Julia, R, Matlab
-
 </details>
 
 
-
-### :one: Learning
+### :three: Learning
 
 <details>
-
   <summary><strong>1. General</strong></summary>
-
+  
 - [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 - [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 - [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
@@ -308,25 +273,19 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 ### :four: Motion Planning & Control
 
 <details>
-
   <summary><strong>1. General</strong></summary>
 
 - [Planning Algorithms](http://msl.cs.uiuc.edu/planning/booka4.pdf)
-
 - [iLQR Tutorial](https://rexlab.ri.cmu.edu/papers/iLQR_Tutorial.pdf)
-
 - [Chance constrained optimization](https://web.stanford.edu/class/ee364a/lectures/chance_constr.pdf)
-
 - [PathFinding Visual Tool](https://qiao.github.io/PathFinding.js/visual/)
 
 </details>
 
 <details>
-
   <summary><strong>2. Open-source repo </strong></summary>
 
 ### 2.1 Planner
-
 - [TEB Local Planner](https://github.com/rst-tu-dortmund/teb_local_planner)
 - [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
 - [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
@@ -338,10 +297,7 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 - [VAMP](https://github.com/KavrakiLab/vamp)
 - [Hybrid A* Path Planner for the KTH Research Concept Vehicle](https://github.com/karlkurzer/path_planner)
 
-
 ### 2.2 Multi-agent
-
-
 - [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
 - [Planner using Linear Safe Corridor](https://github.com/qwerty35/lsc_planner)
 - [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
@@ -391,10 +347,7 @@ Also, check [robotics worldwide](https://www.robotics-worldwide.org/)
 ### 2.7 Learning-based 
 - [Fast Kinodynamic Planning on the Constraint Manifold 
 with Deep Neural Networks](https://sites.google.com/view/constrained-neural-planning/)
-
 </details>
-
-
 
 ## Guidelines
 
@@ -410,7 +363,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
-- [How to Write Mathmatics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
+- [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)
@@ -475,7 +428,6 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Quick C++ Benchmark](https://quick-bench.com/)
 - [RL environment list](https://github.com/clvrai/awesome-rl-envs)
 - [OpenHands: Code Less, Make More](https://github.com/All-Hands-AI/OpenHands)
-
 
 ### 2. Simulations and Benchmarks: 
 
