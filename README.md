@@ -420,7 +420,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ## Robo Tools
 
-### 1. General tools
+### 1. General
 
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
@@ -436,7 +436,25 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
 - [Simulation of Aerial Robotics](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/)
 - [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
+
+## 3. Dataset
+
+<details>
+  <summary><strong>Drones</strong></summary>
   
+| Dataset                                                                  | Data Types Included                                                                                       | Annotations/Labels Provided                               |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Mid-Air](https://midair.ulg.ac.be/)                                     | RGB images, Depth maps, Surface normals, Semantic labels, Stereo pairs, Camera poses, Sensor data (accelerometer, gyroscope) | Pixel-level semantic segmentation, Camera trajectory, Environmental conditions |
+| [Long-Range Drone Detection Dataset](https://research.coe.drexel.edu/ece/imaple/long-range-drone-detection-dataset/) | Video footage or still images of airspace, Recordings at various distances and lighting                  | Bounding boxes of drones, Drone types, Distance labels, Detection confidence |
+| [Semantic Drone Dataset](https://www.tugraz.at/index.php?id=22387)        | High-res drone images of urban scenes, Pixel map for each image, Geo-tags                                | Pixel-level semantic segmentation (roads, buildings, humans, cars, vegetation, etc.) |
+| [DrIFT](https://github.com/CARG-uOttawa/DrIFT)                           | Real & synthetic images, Aerial/ground PoVs, Multi-season/weather                                        | Bounding boxes, Segmentation maps, Background class |
+| [M3ED](https://m3ed.io/)                                                 | Stereo event camera data, Grayscale and RGB images, High-quality IMU, 64-beam LiDAR, RTK localization, Synchronized data from ground vehicles, legged robots, and aerial drones | Platform trajectory (RTK/odometry), Camera and sensor calibration, Labeling for egomotion, Event data timestamps |
+| [VisDrone](https://aiskyeye.com/datasets/)                                     | Images (static and video frames), Video sequences                                                        | Bounding boxes, Object class (car, bus, pedestrian, etc.), Occlusion levels, Truncation status, Object IDs (for tracking) |
+| [Pelican Dataset](https://github.com/wavelab/pelican_dataset)            | Position data (x, y, z from Vicon), Orientation (roll, pitch, yaw), Actual motor speeds, Commanded motor speeds, Calculated velocities, Body rates (p, q, r), Stored as MATLAB cells per flight | Flight sample count, Full time-series measurements per field, Each flight treated as an individual data cell |
+
+</details>
+
+
 ## Robotics Companies:
 
 - [Berkshire Grey](https://www.berkshiregrey.com/)
