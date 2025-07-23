@@ -40,6 +40,12 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [Scholar Inbox](https://www.scholar-inbox.com/)
 - [robotics worldwide](https://www.robotics-worldwide.org/)
 
+## Rankings
+
+- [Roboranking: A Robotics Faculty Hub and University Ranking System](https://roboranking.org/)
+- [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
+- [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
+
 ## Courses
 
 ### Robot Learning & Reinforcement Learning
@@ -377,7 +383,6 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 - [The Strategy Space](https://www.kiragoldner.com/blog/index.html)
 - [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
-- [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
 
 ### Templates
@@ -402,7 +407,6 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ### More readings
 
-- [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 - [Inequality in Science: Who Becomes a Star?](https://www.nber.org/papers/w33063)
 - [What Science and Nature are good for: causing paper cuts](https://www.nature.com/articles/d41586-024-02297-6)
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
@@ -417,6 +421,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Early coauthorship with top scientists predicts success in academic careers](https://www.nature.com/articles/s41467-019-13130-4)
 - [DeployableCoRL2023](https://www.youtube.com/@DeployableCoRL2023/videos)
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
+- [Why are some articles highly cited in applied linguistics? A bibliometric study](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/why-are-some-articles-highly-cited-in-applied-linguistics-a-bibliometric-study/456214B3BCAD20F604C2B732C216D1FF)
 
 ## Robo Tools
 
@@ -437,7 +442,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Simulation of Aerial Robotics](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/)
 - [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
 
-## 3. Dataset
+### 3. Dataset
 
 <details>
   <summary><strong>Drones</strong></summary>
