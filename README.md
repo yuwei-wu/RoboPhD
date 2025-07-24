@@ -55,9 +55,9 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [CSC2621 Topics in Robotics Reinforcement Learning in Robotics, UToronto](https://www.pair.toronto.edu/csc2621-w20/)
 - [CS 285 Deep Reinforcement Learning at UC Berkeley ](https://rail.eecs.berkeley.edu/deeprlcourse-fa22/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
-- [ESE 546: Principles of Deep Learning, Upenn](https://pratikac.github.io/pub/23_ese546.pdf)
-- [ESE 650 Learning in Robotics, Upenn](https://pratikac.github.io/pub/23_ese650.pdf)
-- [CIS 7000: Large Language Models, Upenn](https://llm-class.github.io/schedule.html)
+- [ESE 546: Principles of Deep Learning, UPenn](https://pratikac.github.io/pub/23_ese546.pdf)
+- [ESE 650 Learning in Robotics, UPenn](https://pratikac.github.io/pub/23_ese650.pdf)
+- [CIS 7000: Large Language Models, UPenn](https://llm-class.github.io/schedule.html)
 - [Introduction to Robot Learning, CMU 16-831](https://16-831-s24.github.io)
 - [Robot Learning, Yale University](https://cs.yale.edu/homes/tesca/teaching/rl-s24/)
 - [CS234: Reinforcement Learning, Stanford](https://web.stanford.edu/class/cs234/index.html)
@@ -379,11 +379,13 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [How do I choose a principal investigator for my next postdoc?](https://www.nature.com/articles/d41586-025-01493-2)
 - [How to Build a Bad Research Center](https://cacm.acm.org/opinion/how-to-build-a-bad-research-center/)
 
-### Faculty Resources
+### Faculty Search Resources
 
 - [The Strategy Space](https://www.kiragoldner.com/blog/index.html)
 - [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
+- [Academic job market: how to maximize your chances](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf)
+- [The Quick and Relatively Painless Guide to Your Academic Job Search](https://postdocs.yale.edu/sites/default/files/files/Quick%20and%20Painless%20Academic%20Job%20Search%20Guide.pdf)
 
 ### Templates
 
