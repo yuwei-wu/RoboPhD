@@ -429,6 +429,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ### 1. General
 
+- [Visual arXiv](https://soarxiv.org/)
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
 - [Manim, designed for creating explanatory math videos.](https://github.com/3b1b/manim)
