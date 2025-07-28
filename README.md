@@ -65,7 +65,8 @@ A curated collection of papers, seminars, courses, and technical resources for r
 ### Robotics Planning, Geometry & General Robotics
 
 - [16-350 Planning Techniques for Robotics, CMU](https://www.cs.cmu.edu/~maxim/classes/robotplanning/)
-- [MIT 6.832: Underactuated Robotics](http://underactuated.mit.edu/) 
+- [MIT 6.832: Underactuated Robotics](http://underactuated.mit.edu/)
+- [MIT 16.412J Cognitive Robotics, Spring 2016](https://youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk&si=Ybm1d8cQH_jDJ060)
 
 ### Mathematical Foundations
 
@@ -291,7 +292,7 @@ A curated collection of papers, seminars, courses, and technical resources for r
 <details>
   <summary><strong>2. Open-source repo </strong></summary>
 
-### 2.1 Planner
+#### 2.1 Planner
 - [TEB Local Planner](https://github.com/rst-tu-dortmund/teb_local_planner)
 - [Fast Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
 - [Teach-Repeat-Replan (Autonomous Drone Race)](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)
@@ -303,14 +304,14 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [VAMP](https://github.com/KavrakiLab/vamp)
 - [Hybrid A* Path Planner for the KTH Research Concept Vehicle](https://github.com/karlkurzer/path_planner)
 
-### 2.2 Multi-agent
+#### 2.2 Multi-agent
 - [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
 - [Planner using Linear Safe Corridor](https://github.com/qwerty35/lsc_planner)
 - [MADER: Trajectory Planner in Multi-Agent and Dynamic Environments](https://github.com/mit-acl/mader)
 - [EGO-Swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)
 - [Downwash-Aware Trajectory Planning for Large Quadcopter Teams](https://github.com/jpreiss/smoothener)
   
-### 2.3 MPC /iLQR
+#### 2.3 MPC /iLQR
 
 - [Model Predictive Contouring Controller (MPCC)](https://github.com/alexliniger/MPCC)
 - [Data-Driven MPC for Quadrotors](https://github.com/uzh-rpg/data_driven_mpc)
@@ -320,27 +321,25 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [KR iLQR Optimizer](https://github.com/KumarRobotics/kr_ilqr_optimizer)
 - [Online trajectory generation with distributed model predictive control for multi-robot motion planning](https://github.com/carlosluis/online_dmpc)
 
-### 2.4 Trajectory Optimization
+#### 2.4 Trajectory Optimization
 
 - [Bilevel Planner](https://github.com/OxDuke/Bilevel-Planner)
 - [DC3: A learning method for optimization with hard constraints](https://github.com/locuslab/DC3)
 - [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
 - [smoothener: Convert multi-robot waypoint sequences into smooth piecewise polynomial trajectories.](https://github.com/jpreiss/smoothener)
+- [mav_trajectory_generation](https://github.com/ethz-asl/mav_trajectory_generation)
+- TOPP
+  - [TimeOptimizer, HKUST-Aerial-Robotics](https://github.com/HKUST-Aerial-Robotics/TimeOptimizer)
 
 
-#### 2.4.1 TOPP
-
-- [TimeOptimizer, HKUST-Aerial-Robotics](https://github.com/HKUST-Aerial-Robotics/TimeOptimizer)
-
-
-### 2.5 Map representation
+#### 2.5 Map representation
 
 - [Voxblox](https://github.com/ethz-asl/voxblox)
 - [Grid Map](https://github.com/ANYbotics/grid_map)
 - [OctoMap](https://github.com/OctoMap/octomap)
 - [Convex Decomposition of Free Space](https://github.com/sikang/DecompROS)
 
-### 2.6 Benchmarks
+#### 2.6 Benchmarks
 
 - [Avoidbench](https://github.com/tudelft/AvoidBench)
 - [Evaluating Dynamic Environment Difficulty for Collision Avoidance Benchmarking](https://smoggy-p.github.io/Evaluating_Dynamic_Difficulty/)
@@ -350,7 +349,7 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [Local Motion Planning Benchmark Suite](https://github.com/tud-amr/localPlannerBench)
 - [A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation](https://toyotaresearchinstitute.github.io/lbm1/)
 
-### 2.7 Learning-based 
+#### 2.7 Learning-based 
 - [Fast Kinodynamic Planning on the Constraint Manifold 
 with Deep Neural Networks](https://sites.google.com/view/constrained-neural-planning/)
 </details>
