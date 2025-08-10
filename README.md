@@ -444,6 +444,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
 - [Simulation of Aerial Robotics](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/)
 - [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
+- [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
 
 ### 3. Dataset
 
