@@ -273,7 +273,8 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
 - [Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning/)
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929)
-
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
+  
 </details>
 
 
@@ -303,6 +304,8 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [cmu-exploration](https://www.cmu-exploration.com/)
 - [VAMP](https://github.com/KavrakiLab/vamp)
 - [Hybrid A* Path Planner for the KTH Research Concept Vehicle](https://github.com/karlkurzer/path_planner)
+- [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
+
 
 #### 2.2 Multi-agent
 - [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
@@ -436,15 +439,27 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Quick C++ Benchmark](https://quick-bench.com/)
 - [RL environment list](https://github.com/clvrai/awesome-rl-envs)
 - [OpenHands: Code Less, Make More](https://github.com/All-Hands-AI/OpenHands)
+- [cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)
+- [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner)
 
 ### 2. Simulations and Benchmarks: 
 
+#### Simulations 
 - [Webots](https://github.com/cyberbotics/webots)
 - [MuJoCo Physics](https://github.com/deepmind/mujoco)
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
 - [Simulation of Aerial Robotics](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/)
-- [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
 - [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
+- [RL environment list](https://github.com/clvrai/awesome-rl-envs)
+- [AIFS simulator for flight in agricultural environment. Based on code from HiPeRLab, Helios and AirSim](https://github.com/muellerlab/agri-fly)
+- [Fastest-lap: a vehicle dynamics simulator](https://github.com/juanmanzanero/fastest-lap)
+  
+#### Benchmarks
+- [AvoidBench: A high-fidelity vision-based obstacle avoidance benchmarking suite for multi-rotor](https://github.com/tudelft/AvoidBench)
+- [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
+- [kinodynamic-motion-planning-benchmark](https://github.com/IMRCLab/kinodynamic-motion-planning-benchmark)
+
+
 
 ### 3. Dataset
 
