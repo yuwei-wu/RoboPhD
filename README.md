@@ -432,6 +432,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 ### 1. General
 
 - [Visual arXiv](https://soarxiv.org/)
+- [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
 - [bibtex-tidy: Tidy bibtex files.](flamingtempura.github.io/bibtex-tidy/)
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
