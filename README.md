@@ -431,17 +431,24 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ### 1. General
 
+#### Paper tools
 - [Visual arXiv](https://soarxiv.org/)
 - [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
 - [bibtex-tidy: Tidy bibtex files.](flamingtempura.github.io/bibtex-tidy/)
+- [cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)
+- [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+
+#### Plots
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
 - [Manim, designed for creating explanatory math videos.](https://github.com/3b1b/manim)
-- [Quick C++ Benchmark](https://quick-bench.com/)
-- [RL environment list](https://github.com/clvrai/awesome-rl-envs)
+- [TUEplots: Extend matplotlib for scientific publications](https://github.com/pnkraemer/tueplots)
+- [fastplotlib](https://github.com/fastplotlib/fastplotlib)
+- [inkscape](https://inkscape.org/release/inkscape-1.4/)
+
+
+#### Others
 - [OpenHands: Code Less, Make More](https://github.com/All-Hands-AI/OpenHands)
-- [cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)
-- [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner)
 
 ### 2. Simulations and Benchmarks: 
 
@@ -459,7 +466,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [AvoidBench: A high-fidelity vision-based obstacle avoidance benchmarking suite for multi-rotor](https://github.com/tudelft/AvoidBench)
 - [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://toddlerbot.github.io/)
 - [kinodynamic-motion-planning-benchmark](https://github.com/IMRCLab/kinodynamic-motion-planning-benchmark)
-
+- [Quick C++ Benchmark](https://quick-bench.com/)
 
 
 ### 3. Dataset
