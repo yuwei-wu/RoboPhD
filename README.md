@@ -359,7 +359,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ## Guidelines
 
-- [Instructions to Ph.D. students by Prof.Dimitris Papadias](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
+- [Instructions to Ph.D. students by Prof.Dimitris Papadias](https://home.cse.ust.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
 - [Awesome tips for research](https://github.com/jbhuang0604/awesome-tips)
 - [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
