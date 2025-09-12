@@ -439,8 +439,10 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner)
 
 #### Plots
+
 - [Science Plots](https://github.com/garrettj403/SciencePlots)
 - [rosbag_fancy](https://github.com/xqms/rosbag_fancy)
+- [The Python Graph Gallery](https://python-graph-gallery.com/)
 - [Manim, designed for creating explanatory math videos.](https://github.com/3b1b/manim)
 - [TUEplots: Extend matplotlib for scientific publications](https://github.com/pnkraemer/tueplots)
 - [fastplotlib](https://github.com/fastplotlib/fastplotlib)
