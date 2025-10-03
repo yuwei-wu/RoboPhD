@@ -437,6 +437,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [bibtex-tidy: Tidy bibtex files.](flamingtempura.github.io/bibtex-tidy/)
 - [cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)
 - [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+- [Predict Impact & Quality of Newborn Papers](https://huggingface.co/spaces/ssocean/Newborn_Article_Impact_Predict)
 
 #### Plots
 
@@ -447,6 +448,8 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [TUEplots: Extend matplotlib for scientific publications](https://github.com/pnkraemer/tueplots)
 - [fastplotlib](https://github.com/fastplotlib/fastplotlib)
 - [inkscape](https://inkscape.org/release/inkscape-1.4/)
+- [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+- [Pretty figures](https://www.bsaver.io/misc/pretty-figures)
 
 
 #### Others
