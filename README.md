@@ -426,6 +426,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [DeployableCoRL2023](https://www.youtube.com/@DeployableCoRL2023/videos)
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 - [Why are some articles highly cited in applied linguistics? A bibliometric study](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/why-are-some-articles-highly-cited-in-applied-linguistics-a-bibliometric-study/456214B3BCAD20F604C2B732C216D1FF)
+- [Never on a Sunday! Is there a best day for submitting an article for publication?](https://www.nature.com/nature-index/news/best-day-submitting-academic-scholar-research-science-article-publication)
 
 ## Robo Tools
 
