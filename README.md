@@ -16,7 +16,15 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
-  
+
+### Multi-agent
+
+- [IROS 2025 Workshop Multi-Robot Systems Empowered by Large Language Models](https://shiyuzhao.westlake.edu.cn/IROS2025.htm)
+- [RSS 2025 MRS Workshop](https://mrs-workshop.github.io/rss25/)
+- [ICRA 2025 Block by Block Collaborative Strategies for Multi-agent Robotic Construction](https://cearlab.github.io/blockbyblock.github.io/#)
+- [RSS 2023 Workshop on Multi-Agent Planning and Navigation in Challenging Environments](https://amrl.cs.utexas.edu/multi-agent-planning-workshop.html)
+- [IROS 2022 Decision Making in Multi-Agent Systems](https://dcslgatech.github.io/iros22-multi-agent-workshop/)
+- 
 ### Others
 - [ICRA 2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/icra_workshop_field_robotics/)
 - [ICRA 2025 Workshop on Public Trust in Autonomous Systems (PTAS)](https://saferobotics.princeton.edu/ptas-icra25)
@@ -28,7 +36,8 @@ A curated collection of papers, seminars, courses, and technical resources for r
 
 - [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) 
 - [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
-- [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
+- [Robotics: Science and Systems (RSS)](https://roboticsconference.org)
+- [Conference on Robot Learning (CoRL)](https://www.corl.org/)
 - [International Symposium of Robotics Research](http://ifrr.org/isrr)
 - [International Symposium of Experimental Robotics](http://ifrr.org/iser)
 - [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
@@ -427,6 +436,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 - [Why are some articles highly cited in applied linguistics? A bibliometric study](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/why-are-some-articles-highly-cited-in-applied-linguistics-a-bibliometric-study/456214B3BCAD20F604C2B732C216D1FF)
 - [Never on a Sunday! Is there a best day for submitting an article for publication?](https://www.nature.com/nature-index/news/best-day-submitting-academic-scholar-research-science-article-publication)
+- [AI Engineering: Time to Recognize a New Discipline](https://vijay.seas.harvard.edu/blog/ai-engineering/)
 
 ## Robo Tools
 
