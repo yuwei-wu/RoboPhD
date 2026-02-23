@@ -380,6 +380,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
+- [Beating the odds for journal acceptance](https://www.science.org/doi/10.1126/sciadv.add9147)
 - [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
