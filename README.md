@@ -372,7 +372,6 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Awesome tips for research](https://github.com/jbhuang0604/awesome-tips)
 - [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
-- [The Ten Most Important Rules of Writing Your Job Market Paper](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
@@ -380,16 +379,22 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
-- [Beating the odds for journal acceptance](https://www.science.org/doi/10.1126/sciadv.add9147)
-- [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
-- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
-- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 - [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
 - [How to handle a hands-off supervisor](https://kidger.site/thoughts/how-to-handle-a-hands-off-supervisor/)
 - [How do I choose a principal investigator for my next postdoc?](https://www.nature.com/articles/d41586-025-01493-2)
 - [How to Build a Bad Research Center](https://cacm.acm.org/opinion/how-to-build-a-bad-research-center/)
+
+### Writing
+
+- [Beating the odds for journal acceptance](https://www.science.org/doi/10.1126/sciadv.add9147)
+- [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
+- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
+### Give talks and presentations
+
 
 ### Faculty Search Resources
 
@@ -418,6 +423,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
 - [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 - [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
+
 
 ### More readings
 
