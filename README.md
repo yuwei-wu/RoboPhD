@@ -395,6 +395,11 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ### Give talks and presentations
 
+- [Thirteen Rules for Giving a Really Bad Talk, by Bradley Efron](https://efron.ckirby.su.domains/other/2013ThirteenRules.pdf)
+- [How to Give a Bad Talk, by David A. Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadTalk.pdf)
+- [How to Give a Really Bad Math Talk, by Evgeny Shinder](https://www.ams.org/journals/notices/202503/rnoti-p271.pdf)
+- [How To Speak, by Patrick Winston (video)](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 
 ### Faculty Search Resources
 
@@ -411,7 +416,6 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Latex book](https://github.com/amberj/latex-book-template)
 
 - Website templates
-
   - [al-folio](https://github.com/alshedivat/al-folio)
   - [Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template)
   - [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
