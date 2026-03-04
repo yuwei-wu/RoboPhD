@@ -6,26 +6,44 @@ A curated collection of papers, seminars, courses, and technical resources for r
 
 ### Planning and UAVs
 
+#### RSS
+
 - [RSS 2025 Leveraging Implicit Methods for Aerial Autonomy](https://im4rob.github.io/)
+
+#### ICRA
 - [ICRA 2025 25 years of Aerial Robotics: Challenges and Opportunities](https://aerial-robotics-workshop-icra.com/)
 - [ICRA 2025 Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots](https://ag-tech-icra2025.com/)
+- [ICRA 2025 Workshop on Field Robotics](https://2025.ieee-icra.org/event/workshop-on-field-robotics/)
+- [ICRA 2024 Workshop on Resilient Off-road Autonomy](https://theairlab.org/icra2024_offroad_workshop/)
 - [ICRA 2024 Breaking Swarm Stereotypes](https://hauertlab.com/breaking-swarm-stereotypes-workshop-icra-2024/)
 - [ICRA 2024 Agile Robotics: From Perception to Dynamic Action](https://agile-robotics-workshop.github.io/icra2024/)
 - [ICRA 2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
+  
 - [ICRA 2023 MW07: Energy Efficient Aerial Robotic Systems](https://aerial-robotics-workshop-icra2023.com/)
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
+
+#### IROS
+- [IROS 2025 Workshop on Guiding Vector Fields for Safe Robot Navigation and Coordination](https://sites.google.com/view/gvf-iros-2025/home)
+- [IROS 2025 Workshop on Towards Sustainability and Resiliency of Field Robotics](https://www.inrobotslab.com/workshop)
+- [IROS 2025 Workshop on Aerial Robotics and Unmanned Aerial Vehicles](https://sites.google.com/view/iros2025-aerialrobot-workshop/home) 
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
+
+
 
 ### Multi-agent
 
 - [IROS 2025 Workshop Multi-Robot Systems Empowered by Large Language Models](https://shiyuzhao.westlake.edu.cn/IROS2025.htm)
+- [IROS 2025 Workshop on Multi-Agent Cooperative Systems and Swarm Robotics in the Era of Generative AI](https://openreview.net/group?id=IEEE.org%2FIROS%2F2025%2FWorkshop%2FMACRAI)
+  
 - [RSS 2025 MRS Workshop](https://mrs-workshop.github.io/rss25/)
 - [ICRA 2025 Block by Block Collaborative Strategies for Multi-agent Robotic Construction](https://cearlab.github.io/blockbyblock.github.io/#)
 - [RSS 2023 Workshop on Multi-Agent Planning and Navigation in Challenging Environments](https://amrl.cs.utexas.edu/multi-agent-planning-workshop.html)
 - [IROS 2022 Decision Making in Multi-Agent Systems](https://dcslgatech.github.io/iros22-multi-agent-workshop/)
-- 
+  
 ### Others
+
+- [IROS 2025 Workshop on Neuromorphic Perception for Real-World Robotics](https://sites.google.com/view/NeuRobots2025)
 - [ICRA 2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/icra_workshop_field_robotics/)
 - [ICRA 2025 Workshop on Public Trust in Autonomous Systems (PTAS)](https://saferobotics.princeton.edu/ptas-icra25)
 - [ICRA 2025 Towards Agility and Robustness: Mechanical Intelligence in Robotics, Biology, and Smart Materials ](https://sites.google.com/view/mechanicalintelligence-icra25/)
@@ -38,9 +56,10 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
 - [Robotics: Science and Systems (RSS)](https://roboticsconference.org)
 - [Conference on Robot Learning (CoRL)](https://www.corl.org/)
-- [International Symposium of Robotics Research](http://ifrr.org/isrr)
-- [International Symposium of Experimental Robotics](http://ifrr.org/iser)
-- [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
+- [International Symposium of Robotics Research (ISRR)](http://ifrr.org/isrr)
+- [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser)
+- [Workshop on the Algorithmic Foundations of Robotics (WAFR](http://ifrr.org/wafr)
+- [International Symposium on Distributed Autonomous Robotic Systems (DARS)](https://link.springer.com/conference/dars)
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
 
