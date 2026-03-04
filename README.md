@@ -18,7 +18,6 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [ICRA 2024 Breaking Swarm Stereotypes](https://hauertlab.com/breaking-swarm-stereotypes-workshop-icra-2024/)
 - [ICRA 2024 Agile Robotics: From Perception to Dynamic Action](https://agile-robotics-workshop.github.io/icra2024/)
 - [ICRA 2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
-  
 - [ICRA 2023 MW07: Energy Efficient Aerial Robotic Systems](https://aerial-robotics-workshop-icra2023.com/)
 - [ICRA 2023 FW30: Active methods in autonomous navigation](https://robotics.pme.duth.gr/workshop_active2/)
 - [ICRA 2023 Bioinspired, Soft and Other Novel Design Paradigms for Aerial Robotics](https://aerial-robotics-workshop-icra2023.com/)
@@ -30,12 +29,10 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
 
 
-
 ### Multi-agent
 
 - [IROS 2025 Workshop Multi-Robot Systems Empowered by Large Language Models](https://shiyuzhao.westlake.edu.cn/IROS2025.htm)
 - [IROS 2025 Workshop on Multi-Agent Cooperative Systems and Swarm Robotics in the Era of Generative AI](https://openreview.net/group?id=IEEE.org%2FIROS%2F2025%2FWorkshop%2FMACRAI)
-  
 - [RSS 2025 MRS Workshop](https://mrs-workshop.github.io/rss25/)
 - [ICRA 2025 Block by Block Collaborative Strategies for Multi-agent Robotic Construction](https://cearlab.github.io/blockbyblock.github.io/#)
 - [RSS 2023 Workshop on Multi-Agent Planning and Navigation in Challenging Environments](https://amrl.cs.utexas.edu/multi-agent-planning-workshop.html)
