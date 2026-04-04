@@ -386,25 +386,28 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 - [Instructions to Ph.D. students by Prof.Dimitris Papadias](https://home.cse.ust.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)
 - [Awesome tips for research](https://github.com/jbhuang0604/awesome-tips)
-- [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
-- [What advice would I give a starting graduate student interested in robot learning? Models! ... Model-free! ... Both!](https://www.cs.cmu.edu/~cga/mbl/)
-- [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
+- [The importance of stupidity in scientific research](https://med.virginia.edu/urology/wp-content/uploads/sites/248/2021/08/Schwartz2008stupidity.pdf)
+- [What advice would I give a starting graduate student interested in robot learning? Models! ... Model-free! ... Both!](https://www.cs.cmu.edu/~cga/mbl/)
+- [What makes PhD students happy? Good supervision](https://www.nature.com/articles/d41586-025-03416-7)
 - [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 - [How to manage your time as a researcher](https://www.nature.com/articles/d41586-022-04364-2)
 - [How to handle a hands-off supervisor](https://kidger.site/thoughts/how-to-handle-a-hands-off-supervisor/)
 - [How do I choose a principal investigator for my next postdoc?](https://www.nature.com/articles/d41586-025-01493-2)
 - [How to Build a Bad Research Center](https://cacm.acm.org/opinion/how-to-build-a-bad-research-center/)
+- [How a PhD student’s lab size affects their chance of future academic success](https://www.nature.com/articles/d41586-025-00644-9)
 
 ### Writing
 
 - [Beating the odds for journal acceptance](https://www.science.org/doi/10.1126/sciadv.add9147)
+- [Science Research Writing: For Non-Native Speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
+- [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
@@ -454,7 +457,6 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [We Are Sorry to Inform You …](https://www.cs.utexas.edu/~dsb/Inspiration/reject.pdf)
 - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 - [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8)
-- [How a PhD student’s lab size affects their chance of future academic success](https://www.nature.com/articles/d41586-025-00644-9)
 - [Postdocs’ lab engagement predicts trajectories of PhD students’ skill development](https://www.pnas.org/doi/10.1073/pnas.1912488116)
 - [Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37)
 - [Respect the Unstable, Scale and Constraints in the Era of Artificial Intelligence](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/8/773/files/2025/05/EvangelosTheodorou_OpinionPaperV1.pdf)
@@ -488,7 +490,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [inkscape](https://inkscape.org/release/inkscape-1.4/)
 - [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 - [Pretty figures](https://www.bsaver.io/misc/pretty-figures)
-
+- [Popular Color Palettes](https://coolors.co/palettes/popular/)
 
 #### Others
 - [OpenHands: Code Less, Make More](https://github.com/All-Hands-AI/OpenHands)
