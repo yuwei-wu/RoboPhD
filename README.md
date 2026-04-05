@@ -389,6 +389,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Novelty in Science: A guide to reviewers](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
 - [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
+- [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3)
 - [Maximize your research impact with storytelling](https://www.nature.com/articles/s41568-023-00616-z)
 - [Lessons from My First 8 Years of Research](https://tomsilver.github.io/blog/2024/lessons/)
 - [The differences between tinkering and research](https://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html)
@@ -423,6 +424,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 ### Faculty Search Resources
 
 - [The Strategy Space](https://www.kiragoldner.com/blog/index.html)
+- [Academia Next: The Futures of Higher Education](https://muse.jhu.edu/book/72236)
 - [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
 - [Academic job market: how to maximize your chances](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf)
