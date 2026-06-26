@@ -429,6 +429,8 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
 - [Academic job market: how to maximize your chances](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf)
 - [The Quick and Relatively Painless Guide to Your Academic Job Search](https://postdocs.yale.edu/sites/default/files/files/Quick%20and%20Painless%20Academic%20Job%20Search%20Guide.pdf)
+- [Tenure and research trajectories](https://www.pnas.org/doi/10.1073/pnas.2500322122)
+
 
 ### Templates
 
@@ -468,6 +470,9 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Why are some articles highly cited in applied linguistics? A bibliometric study](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/why-are-some-articles-highly-cited-in-applied-linguistics-a-bibliometric-study/456214B3BCAD20F604C2B732C216D1FF)
 - [Never on a Sunday! Is there a best day for submitting an article for publication?](https://www.nature.com/nature-index/news/best-day-submitting-academic-scholar-research-science-article-publication)
 - [AI Engineering: Time to Recognize a New Discipline](https://vijay.seas.harvard.edu/blog/ai-engineering/)
+- [Optimistic people are all alike: Shared neural representations supporting episodic future thinking among optimistic individuals](https://www.pnas.org/doi/10.1073/pnas.2511101122)
+
+
 
 ## Robo Tools
 
