@@ -484,6 +484,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [bibtex-tidy: Tidy bibtex files.](flamingtempura.github.io/bibtex-tidy/)
 - [cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)
 - [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+- [latex2arxiv: Submit to arXiv without the headache. One command cleans your project, catches rejection-causing errors, and walks you through the upload.](https://github.com/YuZh98/latex2arxiv)
 - [Predict Impact & Quality of Newborn Papers](https://huggingface.co/spaces/ssocean/Newborn_Article_Impact_Predict)
 
 #### Plots
