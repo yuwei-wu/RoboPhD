@@ -414,6 +414,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [Writing an NSF Grant Proposal: A FirstTimer's Perspective](https://people.sc.fsu.edu/~jburkardt/classes/sc_2015/grants/grants_guo.pdf)
 
 ### Give talks and presentations
 
@@ -432,7 +433,7 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Academic job market: how to maximize your chances](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf)
 - [The Quick and Relatively Painless Guide to Your Academic Job Search](https://postdocs.yale.edu/sites/default/files/files/Quick%20and%20Painless%20Academic%20Job%20Search%20Guide.pdf)
 - [Tenure and research trajectories](https://www.pnas.org/doi/10.1073/pnas.2500322122)
-
+- [Philip’s notes on the tenure-track assistant professor job search](https://xb00dx.github.io/files/guo-faculty-job-search.pdf)
 
 ### Templates
 
