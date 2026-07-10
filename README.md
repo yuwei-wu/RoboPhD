@@ -31,6 +31,7 @@ A curated collection of papers, seminars, courses, and technical resources for r
 
 ### Multi-agent
 
+- [IROS 2026 Workshop on Tightly Coupled Physical Interaction and Collaboration in Multi-Robot Systems](https://physcollabot.github.io/)
 - [IROS 2025 Workshop Multi-Robot Systems Empowered by Large Language Models](https://shiyuzhao.westlake.edu.cn/IROS2025.htm)
 - [IROS 2025 Workshop on Multi-Agent Cooperative Systems and Swarm Robotics in the Era of Generative AI](https://openreview.net/group?id=IEEE.org%2FIROS%2F2025%2FWorkshop%2FMACRAI)
 - [RSS 2025 MRS Workshop](https://mrs-workshop.github.io/rss25/)
@@ -55,10 +56,11 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [Conference on Robot Learning (CoRL)](https://www.corl.org/)
 - [International Symposium of Robotics Research (ISRR)](http://ifrr.org/isrr)
 - [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser)
-- [Workshop on the Algorithmic Foundations of Robotics (WAFR](http://ifrr.org/wafr)
+- [Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://ifrr.org/wafr)
 - [International Symposium on Distributed Autonomous Robotic Systems (DARS)](https://link.springer.com/conference/dars)
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
+- [Annual Learning for Dynamics & Control Conference (L4DC)](https://sites.google.com/usc.edu/l4dc2026/)
 
 ## Mailing Lists
 
