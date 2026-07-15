@@ -27,6 +27,7 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [IROS 2025 Workshop on Towards Sustainability and Resiliency of Field Robotics](https://www.inrobotslab.com/workshop)
 - [IROS 2025 Workshop on Aerial Robotics and Unmanned Aerial Vehicles](https://sites.google.com/view/iros2025-aerialrobot-workshop/home) 
 - [IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy](https://ippc-iros23.github.io/)
+- [IROS 2021 Integrated Perception, Learning, and Control for Agile Super Vehicles](https://wp.nyu.edu/workshopiros2021iplc/)
 
 
 ### Multi-agent
@@ -41,10 +42,13 @@ A curated collection of papers, seminars, courses, and technical resources for r
   
 ### Others
 
+- [RSS 2026 The Geometry of Motion: Physics-Informed Structures for Learning and Control](https://sites.google.com/view/rss26-geometry/)
+- [ICRA 2026 Geometry in the Age of Data‑Driven Robotics](https://geometric-robotics.github.io/icra-2026-workshop/)
 - [IROS 2025 Workshop on Neuromorphic Perception for Real-World Robotics](https://sites.google.com/view/NeuRobots2025)
 - [ICRA 2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/icra_workshop_field_robotics/)
 - [ICRA 2025 Workshop on Public Trust in Autonomous Systems (PTAS)](https://saferobotics.princeton.edu/ptas-icra25)
 - [ICRA 2025 Towards Agility and Robustness: Mechanical Intelligence in Robotics, Biology, and Smart Materials ](https://sites.google.com/view/mechanicalintelligence-icra25/)
+- [IROS 2024 Workshop on Agricultural Robotics for a Sustainable Future](https://sites.google.com/illinois.edu/iros2024-agrobotics/home?authuser=0)
 - [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
 - [IROS 2023 Workshop on Leveraging Models for Contact-Rich Manipulation](https://a2r-lab.org/courses/modelcontactiros23/)
 
@@ -61,17 +65,24 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
 - [Annual Learning for Dynamics & Control Conference (L4DC)](https://sites.google.com/usc.edu/l4dc2026/)
+- [International Conference on Unmanned Aircraft Systems (ICUAS)](https://uasconferences.com/2026_icuas/)
+
 
 ## Mailing Lists
 
 - [Scholar Inbox](https://www.scholar-inbox.com/)
 - [robotics worldwide](https://www.robotics-worldwide.org/)
 
-## Rankings
+## Rankings and Stats
 
+Faculty/Author:
 - [Roboranking: A Robotics Faculty Hub and University Ranking System](https://roboranking.org/)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
+
+Paper:
+- [ICLR Paper Stats](https://binyxu.github.io/iclr-accept-rate/)
+- [ICRA/IROS Acceptance Rate History](https://staff.aist.go.jp/k.koide/acceptance-rate.html)
 
 ## Courses
 
@@ -106,9 +117,9 @@ A curated collection of papers, seminars, courses, and technical resources for r
 ### Aggregators
 
 - [Robotics-Courses](https://github.com/ajaygunalan/Robotics-Courses)
+  
 
 ## Robotics Labs
-
 
 ### UAV Labs
 
@@ -132,13 +143,11 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [MIT-LIS (Learning and Intelligent Systems Group, MIT CSAIL)](https://lis.csail.mit.edu/)
 - [MIT-COCOSCI (Computational Cognitive Science Group)](https://cocosci.mit.edu/)
 
-
 ## Resources
 
 ### :one: Robotics
-<details>
-  <summary><strong>1. General</strong></summary>
 
+1. General
 - [A Roadmap for US Robotics (2024 edition)](https://hichristensen.com/pdf/roadmap-2024.pdf)
 - [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 - [Small Unmanned Aircraft: Theory and Practice](https://github.com/randybeard/uavbook)
@@ -146,12 +155,11 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [An Invitation to 3-D Vision From Images to Models](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf)
 - [The Extended Kalman Filter: An Interactive Tutorial for Non-Experts](https://simondlevy.github.io/ekf-tutorial/)
 - [ACD](https://parasollab.web.illinois.edu/research/ACD/)
+- [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
+- [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 
-</details>
-
-<details>
-  <summary><strong>2. Math</strong></summary>
-
+2. Math
+- [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 - [Exploring Geometry](https://faculty.math.illinois.edu/~mjunge/40216/Hvidsten.pdf)
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Introduction to Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
@@ -162,35 +170,33 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [The Topology of Fiber Bundles Lecture Notes](https://math.stanford.edu/~ralph/fiber.pdf)
 - [Linear Algebra for Computer Vision, Robotics, and Machine Learning](https://www.cis.upenn.edu/~cis5150/linalg-I-f.pdf)
 - [Ordinary Differential Equations](https://users.math.msu.edu/users/gnagy/teaching/ode.pdf)
-
 - Differential Geometry
   - [Differential geometry of curves and surfaces](http://www2.ing.unipi.it/griff/files/dC.pdf)
   - [Elementary Differential Geometry](http://staff.ustc.edu.cn/~spliu/2018DG/ONeill.pdf)
   - [Riemannian Manifolds: An Introduction to Curvature](https://www.maths.ed.ac.uk/~v1ranick/papers/leeriemm.pdf)
   - [Introduction to Riemannian Manifolds](https://lps.elte.hu/gomori/spacetime-geometry/readings/(Graduate%20texts%20in%20mathematics%20176)%20Lee,%20John%20M%20-%20Introduction%20to%20Riemannian%20manifolds%20(Corrected%20version%20of%20second%20edition)-Springer%20Nature%20(2018).pdf)
   - [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
+  - Others:
+      - [Crocheting the Hyperbolic Plane](https://pi.math.cornell.edu/~dtaimina/crochet/hplane.htm)
+      - [Möbius transformation](https://timhutton.github.io/mobius-transforms/)
+      - [Visualising straight lines (geodesics) on the pseudosphere and related geometries.](https://github.com/timhutton/PseudosphereGeodesics)
 
-</details>
 
 ### :two: Optimization
 
-<details>
-
-  <summary><strong>1. General</strong></summary>
-
+1. General
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - [A Course in Combinatorial Optimization](https://homepages.cwi.nl/~lex/files/dict.pdf)
 - [CMU course, Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
 - [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
 - [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)
 - [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf)
-- [Scaled form ADMM](https://nikopj.github.io/notes/admm_scaled/)
-- [General Heuristics for Nonconvex Quadratically Constrained Quadratic Programming](https://web.stanford.edu/~boyd/papers/pdf/qcqp.pdf)
 - [Nonlinear Optimization James V. Burke](https://sites.math.washington.edu/~burke/crs/408/notes/Math408_W2020/math408text.pdf)
 - [Optimization: Principles and Algorithms Michel Bierlair](https://transp-or.epfl.ch/books/optimization/html/OptimizationPrinciplesAlgorithms2018.pdf)
-
-</details>
-
+- Others:
+  - [General Heuristics for Nonconvex Quadratically Constrained Quadratic Programming](https://web.stanford.edu/~boyd/papers/pdf/qcqp.pdf)
+  - [ADMM: the OSQP Solver Explained!](https://xuwkk.github.io/blog/posts/learning/optimization/osqp.html)
+  - [Scaled form ADMM](https://nikopj.github.io/notes/admm_scaled/)
 
 <details>
 
@@ -296,12 +302,16 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [What’s the backward-forward FLOP ratio for Neural Networks?](https://www.alignmentforum.org/posts/fnjKpBoWJXcSDwhZk/what-s-the-backward-forward-flop-ratio-for-neural-networks)
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
 - [Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning/)
 - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929)
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
-  
+- [Awesome Digital Twins: A Survey](https://github.com/ndrwmlnk/awesome-digital-twins)
+- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
+- [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
+- [What’s the backward-forward FLOP ratio for Neural Networks?](https://www.alignmentforum.org/posts/fnjKpBoWJXcSDwhZk/what-s-the-backward-forward-flop-ratio-for-neural-networks)
+- [Neuromatch deep learning course](https://deeplearning.neuromatch.io/tutorials/intro.html)
+
 </details>
 
 
@@ -329,10 +339,9 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [MRSL Motion Primitive Library](https://github.com/sikang/mpl_ros)
 - [FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments](https://github.com/mit-acl/faster)
 - [cmu-exploration](https://www.cmu-exploration.com/)
-- [VAMP](https://github.com/KavrakiLab/vamp)
+- [Vector-Accelerated Motion Planning (VAMP)](https://github.com/KavrakiLab/vamp)
 - [Hybrid A* Path Planner for the KTH Research Concept Vehicle](https://github.com/karlkurzer/path_planner)
 - [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
-
 
 #### 2.2 Multi-agent
 - [multi-robot-trajectory-planning](https://github.com/whoenig/multi-robot-trajectory-planning)
@@ -380,8 +389,11 @@ A curated collection of papers, seminars, courses, and technical resources for r
 - [A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation](https://toyotaresearchinstitute.github.io/lbm1/)
 
 #### 2.7 Learning-based 
+
 - [Fast Kinodynamic Planning on the Constraint Manifold 
 with Deep Neural Networks](https://sites.google.com/view/constrained-neural-planning/)
+
+
 </details>
 
 ## Guidelines
@@ -426,34 +438,32 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 ### Faculty Search Resources
 
-- [The Strategy Space](https://www.kiragoldner.com/blog/index.html)
 - [Academia Next: The Futures of Higher Education](https://muse.jhu.edu/book/72236)
-- [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
-- [Academic job market: how to maximize your chances](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf)
-- [The Quick and Relatively Painless Guide to Your Academic Job Search](https://postdocs.yale.edu/sites/default/files/files/Quick%20and%20Painless%20Academic%20Job%20Search%20Guide.pdf)
+- [The Quick and Relatively Painless Guide to Your Academic Job Search](https://www.stat.purdue.edu/~doerge/BIOINFORM.D/SPRING15/Academic_Job_Search_Guide_v16.pdf)
 - [Tenure and research trajectories](https://www.pnas.org/doi/10.1073/pnas.2500322122)
-- [Philip’s notes on the tenure-track assistant professor job search](https://xb00dx.github.io/files/guo-faculty-job-search.pdf)
+- Notes and experiences:
+  - [The Strategy Space, by Kira Goldner](https://www.kiragoldner.com/blog/index.html)
+  - [Academic job market: how to maximize your chances, by Irina Gaynanova](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf)
+  - [Philip’s notes on the tenure-track assistant professor job search](https://xb00dx.github.io/files/guo-faculty-job-search.pdf)
+  - [Tips for Computer Science Faculty Applications, by 
+Yisong Yue](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+  - [Thoughts from my Faculty Application Experience, by Ben Lengerich](https://benlengerich.medium.com/thoughts-from-my-faculty-application-experience-38f1a29c715e)
+  - [My Faculty Application Experience, by Daniel Seita](https://danieltakeshi.github.io/2023/06/15/faculty-application)
+- Video:
+  - [How to be the #1 pick in an R1 faculty search](https://www.youtube.com/watch?v=gjXD5dwRnDU)
+
 
 ### Templates
 
 - [Review and Response Letters](https://github.com/mschroen/review_response_letter)
 - [Best README](https://github.com/othneildrew/Best-README-Template)
-- [Latex book](https://github.com/amberj/latex-book-template)
-
+- [LaTeX book](https://github.com/amberj/latex-book-template)
 - Website templates
   - [al-folio](https://github.com/alshedivat/al-folio)
   - [Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template)
   - [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
   - [awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
-
-### Knowledge Notes
-
-- [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-- [Autonomous Racing Literature](https://github.com/JohannesBetz/AutonomousRacing_Literature)
-- [PhD Bibliography on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
-- [Deep Implicit Layers](http://implicit-layers-tutorial.org/)
-
 
 ### More readings
 
@@ -463,18 +473,22 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 - [Richard Hamming. "You and Your Research"](https://www.cs.utexas.edu/~dsb/Inspiration/hamming.pdf)
 - [We Are Sorry to Inform You …](https://www.cs.utexas.edu/~dsb/Inspiration/reject.pdf)
 - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
-- [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8)
-- [Postdocs’ lab engagement predicts trajectories of PhD students’ skill development](https://www.pnas.org/doi/10.1073/pnas.1912488116)
 - [Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37)
 - [Respect the Unstable, Scale and Constraints in the Era of Artificial Intelligence](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/8/773/files/2025/05/EvangelosTheodorou_OpinionPaperV1.pdf)
-- [Early coauthorship with top scientists predicts success in academic careers](https://www.nature.com/articles/s41467-019-13130-4)
 - [DeployableCoRL2023](https://www.youtube.com/@DeployableCoRL2023/videos)
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
-- [Why are some articles highly cited in applied linguistics? A bibliometric study](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/why-are-some-articles-highly-cited-in-applied-linguistics-a-bibliometric-study/456214B3BCAD20F604C2B732C216D1FF)
-- [Never on a Sunday! Is there a best day for submitting an article for publication?](https://www.nature.com/nature-index/news/best-day-submitting-academic-scholar-research-science-article-publication)
 - [AI Engineering: Time to Recognize a New Discipline](https://vijay.seas.harvard.edu/blog/ai-engineering/)
-- [Optimistic people are all alike: Shared neural representations supporting episodic future thinking among optimistic individuals](https://www.pnas.org/doi/10.1073/pnas.2511101122)
-
+- Careers:
+  - [Academic mentees thrive in big groups, but survive in small groups](https://www.nature.com/articles/s41562-025-02114-8)
+  - [Postdocs’ lab engagement predicts trajectories of PhD students’ skill development](https://www.pnas.org/doi/10.1073/pnas.1912488116)
+  - [The nine-to-five PhD: mere myth or an achievable goal?](https://www.nature.com/articles/d41586-026-00509-9)
+  - [Early coauthorship with top scientists predicts success in academic careers](https://www.nature.com/articles/s41467-019-13130-4)
+  - [Optimistic people are all alike: Shared neural representations supporting episodic future thinking among optimistic individuals](https://www.pnas.org/doi/10.1073/pnas.2511101122)
+- Papers: 
+  - [Why are some articles highly cited in applied linguistics? A bibliometric study](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/why-are-some-articles-highly-cited-in-applied-linguistics-a-bibliometric-study/456214B3BCAD20F604C2B732C216D1FF)
+  - [Never on a Sunday! Is there a best day for submitting an article for publication?](https://www.nature.com/nature-index/news/best-day-submitting-academic-scholar-research-science-article-publication)
+  - [Estimating the Causal Effect of Early ArXiving on Paper Acceptance](https://arxiv.org/abs/2306.13891)
+  
 
 
 ## Robo Tools
@@ -505,18 +519,20 @@ with Deep Neural Networks](https://sites.google.com/view/constrained-neural-plan
 
 #### Others
 - [OpenHands: Code Less, Make More](https://github.com/All-Hands-AI/OpenHands)
+- [Now I Get It! Scientific articles, explained.](https://nowigetit.us/)
 
 ### 2. Simulations and Benchmarks: 
 
-#### Simulations 
-- [Webots](https://github.com/cyberbotics/webots)
-- [MuJoCo Physics](https://github.com/deepmind/mujoco)
-- [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
+#### Simulations
+
 - [Simulation of Aerial Robotics](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/)
 - [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
 - [RL environment list](https://github.com/clvrai/awesome-rl-envs)
 - [AIFS simulator for flight in agricultural environment. Based on code from HiPeRLab, Helios and AirSim](https://github.com/muellerlab/agri-fly)
 - [Fastest-lap: a vehicle dynamics simulator](https://github.com/juanmanzanero/fastest-lap)
+- [Webots](https://github.com/cyberbotics/webots)
+- [MuJoCo Physics](https://github.com/deepmind/mujoco)
+- [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
   
 #### Benchmarks
 - [AvoidBench: A high-fidelity vision-based obstacle avoidance benchmarking suite for multi-rotor](https://github.com/tudelft/AvoidBench)
